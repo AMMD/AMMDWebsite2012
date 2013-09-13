@@ -1,0 +1,45 @@
+a:11:{s:9:"squelette";s:37:"html_f9a868e6b56812da7f02bc62ef0e058f";s:6:"source";s:67:"plugins/auto/squelette_maparaan/v1.0.0/formulaires/inscription.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"7/for----1com-arr-fon-sui--bf8ad665";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"texte";s:1729:"<div class="formulaire_spip formulaire_inscription ajax" id="formulaire_inscription">
+
+
+ 
+<form method="post" action="/Sites/2012_ammd_spip/spip.php?page=login&amp;url=%2FSites%2F2012_ammd_spip%2Fecrire%2F" class="lateral-form">
+	<div><input name="page" value="login" type="hidden"
+/><input name="url" value="/Sites/2012_ammd_spip/ecrire/" type="hidden"
+/><input name='formulaire_action' type='hidden'
+		value='inscription' /><input name='formulaire_action_args' type='hidden'
+		value='os52JsPJjz4gA5ibnO4oDR77Zb/arfNQNIJbhlYY2F76In1ySM/7mydarY/TqJebtT94wbcf2o6KVhxXsM0QmaS90469CrFO4u3u0mYmhWidbYt5yHS9' /></div><fieldset>
+		
+		<div class="padd-post-box titre-sans-icone">
+		 
+		
+		<div class="padd-post-box-title"><h3>Personal identifiers</h3></div>
+		<p class='explication'>Enter your name and email address here. You will receive your personal identifier shortly by email.</p>
+		</div>
+		<ul>
+			<li class='saisie_nom_inscription obligatoire'>
+				<p class="input">
+					<label for="nom_inscription">form pet votre nom</label>
+					
+					<input name="nom_inscription" id="nom_inscription" value="form pet votre nom" size="30" type="text" />
+				</p>
+			</li>
+			<li class='saisie_mail_inscription obligatoire'>
+				<p class="input">
+					<label for="mail_inscription">form pet votre email</label>
+					
+					<input name="mail_inscription" id="mail_inscription" value="form pet votre email" size="30" type="text" />
+				</p>
+			</li>
+		</ul>
+	</fieldset>
+	
+	<p style="display: none;">
+		<label for="nobot">Please leave this field empty:</label>
+		<input type="text" class="text" name="nobot" id="nobot" value="" size="10" />
+	</p>
+	<p class="boutons"><input type="submit" class="submit" value="Submit" /></p>
+ </form>
+
+
+</div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:15:{s:15:"nom_inscription";s:0:"";s:16:"mail_inscription";s:0:"";s:2:"id";s:0:"";s:5:"_mode";s:7:"1comite";s:10:"_pipelines";a:1:{s:15:"formulaire_fond";a:3:{s:4:"form";s:11:"inscription";s:4:"args";a:2:{i:0;s:7:"1comite";i:1;s:0:"";}s:13:"je_suis_poste";b:0;}}s:15:"formulaire_args";s:116:"os52JsPJjz4gA5ibnO4oDR77Zb/arfNQNIJbhlYY2F76In1ySM/7mydarY/TqJebtT94wbcf2o6KVhxXsM0QmaS90469CrFO4u3u0mYmhWidbYt5yHS9";s:7:"erreurs";a:0:{}s:6:"action";s:87:"/Sites/2012_ammd_spip/spip.php?page=login&amp;url=%2FSites%2F2012_ammd_spip%2Fecrire%2F";s:4:"form";s:11:"inscription";s:8:"editable";s:1:" ";s:4:"lang";s:2:"en";s:4:"date";s:19:"2013-04-16 15:11:20";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 15:11:20";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366117880;s:2:"gz";b:0;}

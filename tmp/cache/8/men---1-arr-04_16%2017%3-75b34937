@@ -1,0 +1,9 @@
+a:11:{s:9:"squelette";s:37:"html_0e4025af6ae59321f48ecc932da44d84";s:6:"source";s:37:"plugins/auto/menus/menus/accueil.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"8/men---1-arr-04_16%2017%3-75b34937";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:116:"
+
+
+
+ 
+	<li class="menu-entree item  on">
+		<a href="http://b2g2/Sites/2012_ammd_spip/" title="Accueil">Accueil</a>
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:9:{s:5:"titre";s:0:"";s:3:"css";s:0:"";s:10:"appel_menu";b:1;s:3:"env";a:8:{s:4:"date";s:19:"2013-04-16 17:36:22";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 17:36:22";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:8:"sommaire";s:4:"lang";s:2:"fr";s:11:"identifiant";s:8:"barrenav";}s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-04-16 17:36:22";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 17:36:22";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366126582;s:2:"gz";b:0;}

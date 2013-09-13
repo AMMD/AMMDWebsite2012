@@ -1,0 +1,16 @@
+a:11:{s:9:"squelette";s:37:"html_5cd8dadca9d6b209c8f80cd4f560a0fd";s:6:"source";s:32:"prive/formulaires/menu_lang.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"1/for-lan-var-lan-htt-amm--8cd50d27";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"texte";s:740:"<div class="formulaire_spip formulaire_menu_lang" id="formulaire_menu_lang">
+<form method="post" action="http://b2g2/Sites/2012_ammd_spip/spip.php?action=converser&amp;redirect=.%2F%3Frubrique28"><div>
+	<input name="action" value="converser" type="hidden"
+/><input name="redirect" value="./?rubrique28" type="hidden"
+/>
+	<label for="var_lang">Langues du site</label>
+	<select name="var_lang" id="var_lang" onchange="this.parentNode.parentNode.submit()">
+		<option value='en' dir="ltr">&#91;en&#93; English</option>
+	
+
+	 
+		<option value='fr' selected="selected" dir="ltr">&#91;fr&#93; fran&#231;ais</option>
+	</select>
+	<noscript><p class="boutons"><input type="submit" class="submit" value="&gt;&gt;" /></p></noscript>
+</div></form>
+</div>";s:5:"notes";s:0:"";s:8:"contexte";a:9:{s:3:"nom";s:8:"var_lang";s:3:"url";s:85:"http://b2g2/Sites/2012_ammd_spip/spip.php?action=converser&redirect=.%2F%3Frubrique28";s:4:"name";s:8:"var_lang";s:7:"default";s:2:"fr";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-05-01 23:35:30";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-05-01 23:35:30";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1367444130;s:2:"gz";b:0;}

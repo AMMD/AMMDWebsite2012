@@ -1,0 +1,15 @@
+<plugin>
+  	<nom>Maparaan</nom>
+  	<version>1.0.1</version>
+  	<auteur>[Guillaume Michard (OpenStudio)->http://www.openstudio.fr/], [d'apr&#232;s le th&#232;me Maparaan->http://www.paddsolutions.com/wordpress-theme-maparaan/], [chez Padd Solutions->http://www.paddsolutions.com/]</auteur>
+  	<licence>GNU/GPL</licence>
+  	<slogan>Th&#232;me Z gris et rouge, 3 colonnes</slogan>
+  	<description>Un th&#232;me gris et rouge. Largeur fixe. Menu horizontal, et pied de page important.</description>
+	<lien>http://www.spip-contrib.net/Maparaan-Theme</lien>
+  	<icon>vignette.jpg</icon>
+	<prefix>theme_maparaan</prefix>
+	<etat>stable</etat>
+	<necessite id="SPIP" version="[2.0.10;3.0.99]" />
+	<utilise id="Z" version="[1.2.0;]" />
+	<categorie>theme</categorie>
+</plugin>

@@ -1,0 +1,17 @@
+a:11:{s:9:"squelette";s:37:"html_ac6b2ce3a842c2ff258d48d55e03882a";s:6:"source";s:35:"plugins/auto/z/v1.7.21/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/%2FSi-amm-spi---0b51debad30665246";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:534:"
+<?php echo recuperer_fond( 'structure', array_merge(array (
+  'article9' => '',
+  'id_article' => '9',
+  'type' => 'article',
+  'date' => '2013-04-16 17:45:30',
+  'date_default' => true,
+  'date_redac' => '2013-04-16 17:45:30',
+  'date_redac_default' => true,
+),array('id_rubrique' => '28',
+	'id_secteur' => '27',
+	'type' => 'article',
+	'composition' => '',
+	'lang' => 'fr')), array("compil"=>array('plugins/auto/z/v1.7.21/article.html','html_ac6b2ce3a842c2ff258d48d55e03882a','',2,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:8:"article9";s:0:"";s:10:"id_article";s:1:"9";s:4:"type";s:7:"article";s:4:"date";s:19:"2013-04-16 17:45:30";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 17:45:30";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366127130;s:2:"gz";b:0;}

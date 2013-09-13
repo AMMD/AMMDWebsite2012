@@ -1,0 +1,122 @@
+a:11:{s:9:"squelette";s:37:"html_85fc513661eb3c23e0233c1ce1534b8d";s:6:"source";s:44:"plugins/auto/theme_maparaan/v1.0.1/body.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"1/bod--28-1-rub-2013_05_01-1ff06ebe";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:4170:"<div id="padd-header">
+	<div id="padd-header-wrapper">
+		<div class="padd-box padd-box-title">
+			
+			<?php echo recuperer_fond( 'inclure/entete', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'id_formulaire' => 1,
+  'type' => 'rubrique',
+  'date' => '2013-05-01 15:29:00',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 15:29:00',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',5,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		</div>
+	</div>	
+</div>
+<div id="padd-categories" class="padd-box padd-box-categories">
+	<h2>Categories</h2>
+	
+	<div id="nav" class="padd-interior">
+		<?php echo recuperer_fond( 'inclure/barre-nav', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'id_formulaire' => 1,
+  'type' => 'rubrique',
+  'date' => '2013-05-01 15:29:00',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 15:29:00',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('identifiant' => 'barrenav',
+	'lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',13,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	</div>
+</div>
+			
+<div id="page">
+	<div id="page-wrapper">
+		<div id="contenu">		
+			
+			<?php echo recuperer_fond( 'contenu/rubrique', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'id_formulaire' => 1,
+  'type' => 'rubrique',
+  'date' => '2013-05-01 15:29:00',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 15:29:00',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',21,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		</div>
+				
+		<div id="sidebar">
+			
+			<?php echo recuperer_fond( 'navigation/rubrique', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'id_formulaire' => 1,
+  'type' => 'rubrique',
+  'date' => '2013-05-01 15:29:00',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 15:29:00',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',26,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+			<?php echo recuperer_fond( 'extra/rubrique', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'id_formulaire' => 1,
+  'type' => 'rubrique',
+  'date' => '2013-05-01 15:29:00',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 15:29:00',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',27,$GLOBALS['spip_lang'])), _request("connect"));
+?>	
+		</div>
+		<div class="nettoyeur"></div>
+	</div>		
+</div>		
+
+<div id="footer">
+	
+	<div id='footer-content'>
+		<div id='footer-content-wrapper'>
+			<?php echo recuperer_fond( 'inclure/pied', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'id_formulaire' => 1,
+  'type' => 'rubrique',
+  'date' => '2013-05-01 15:29:00',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 15:29:00',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',37,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+			<div id="footer-copyleft"><?php echo recuperer_fond( 'inc-theme-copyleft', array('lang' => 'fr'), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',38,$GLOBALS['spip_lang'])), _request("connect"));
+?></div>
+		</div>
+	</div>
+</div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:11:{s:10:"rubrique28";s:0:"";s:11:"id_rubrique";s:2:"28";s:13:"id_formulaire";i:1;s:4:"type";s:8:"rubrique";s:4:"date";s:19:"2013-05-01 15:29:00";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-05-01 15:29:00";s:18:"date_redac_default";b:1;s:10:"id_secteur";s:2:"27";s:11:"composition";s:0:"";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1367414940;s:2:"gz";b:0;}

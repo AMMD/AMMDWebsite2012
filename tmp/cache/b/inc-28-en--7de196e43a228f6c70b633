@@ -1,0 +1,113 @@
+a:11:{s:9:"squelette";s:37:"html_0e1482b2133ff0e5fd51b40860278a44";s:6:"source";s:32:"squelettes/inclure/contribs.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"b/inc-28-en--7de196e43a228f6c70b633";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:6007:"
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div style="width: 100%; border: 1px solid #CCC; height: 30px;
+  border-radius: 4px; box-shadow: 2px 2px 2px #333; background-color:
+  #ECECEC">
+    <div style="width: 1.11111111111%; height: 20px;
+    margin-top: 5px; margin-left: 2px;
+    background-color: red"></div>
+    <h2 style="font-size: 1.4em;text-align:
+    center; margin-top: -35px">100 &euro; / 9000
+    &euro; :
+    1.111 %</h2>
+  </div>
+
+<script type="text/javascript">
+$(document).ready( function(){
+$('.donation').click( function(){
+$('.dons').children().removeClass('clicked')
+$(this).parent().addClass('clicked')
+$('input#champ_montant_1').val($(this).html().split(" ")[0])
+});
+})
+</script>
+<div class="padd-box padd-box-popular-posts">
+  
+	<h2>Counterparts</h2>
+	<div class="padd-interior">
+		<div class="padd-interior-wrapper">	
+			<dl class="dons">
+
+				
+				  <div class="donations">
+				<dt class="donation">5 €</dt>
+				<dd><p>Your name will appear in the Ohrelander <strong>Hall of Shame</strong> on Sebkha-Chott&#8217;s website as <strong>contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">10 € </dt>
+				<dd><p>Your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>nice contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">20 € </dt>
+				<dd><p>You will be given a <strong>video file</strong> of Sebkha-Chott show at <strong>Zappanale 2010</strong>, and your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>lovable contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">50 € </dt>
+				<dd><p>You will be given every <strong>video and image file used on stage</strong> and a <strong>video file</strong> of Sebkha-Chott show at <strong>Zappanale 2010</strong>, and your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>loved contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">75 € </dt>
+				<dd><p>You will be given a <strong>video file of Sebkha-Chott Galoot Formula&#8217;s performance at Zappanale 2013</strong>, <strong>every video and image files used on stage</strong> and a <strong>video file</strong> of Sebkha-Chott show at <strong>Zappanale 2010</strong>, and your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>loved contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">100 € (50 items)</dt>
+				<dd><p>You will be allowed to <strong>view the final rehearsal on 30th of July in Le Mans</strong> (without Ike Willis). Your transport, accomodations and foods will be at your own charge. You will be given a <strong>video file of Sebkha-Chott Galoot Formula&#8217;s performance at Zappanale 2013</strong>, <strong>every video and image files used on stage</strong> and a <strong>video file</strong> of Sebkha-Chott show at <strong>Zappanale 2010</strong>, and your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>honourable contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">150 € (7 items)</dt>
+				<dd><p>Your named will be <strong>sung by the <i>Mammy Nuns</i> on stage</strong> in Brown Moses/Why don&#8217;t you like me? mash-up, the same way Arnold Silvetri is being sung in Broadway the Hard Way by Frank Zappa. You will be given a <strong>video file of Sebkha-Chott Galoot Formula&#8217;s performance at Zappanale 2013</strong>, <strong>every video and image files used on stage</strong> and a <strong>video file</strong> of Sebkha-Chott show at <strong>Zappanale 2010</strong>, and your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>legitimate contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">500 € (6 items)</dt>
+				<dd><p>You will get a <strong>Mammy Nun Head (unique pieces - transport fee at your charge)</strong>. You will be given a <strong>video file of Sebkha-Chott Galoot Formula&#8217;s performance at Zappanale 2013</strong>, <strong>every video and image files used on stage</strong> and a <strong>video file</strong> of Sebkha-Chott show at <strong>Zappanale 2010</strong>, and your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>especial contributor</strong>.</p></dd>
+				</div>
+				
+				  <div class="donations">
+				<dt class="donation">750 € (1 item)</dt>
+				<dd><p>You will get <strong>Thing Fish Head (unique piece - transport fee at your charge)</strong>. You will be given a <strong>video file of Sebkha-Chott Galoot Formula&#8217;s performance at Zappanale 2013</strong>, <strong>every video and image files used on stage</strong> and a <strong>video file</strong> of Sebkha-Chott show at <strong>Zappanale 2010</strong>, and your name will appear in the Ohrelander <strong>Hall of Shame</strong> and will be <strong>projected at the end of the show</strong> as <strong>galoot contributor</strong>.</p></dd>
+				</div>
+				
+
+			</dl>
+		</div>
+	</div>
+	<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "en") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_FORMIDABLE', 'crowd'), array('squelettes/inclure/contribs.html', 'html_0e1482b2133ff0e5fd51b40860278a44', '_contribsrub', 50, 'en'));
+if ($lang_select) lang_select();
+?>
+</div>
+
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:11:"id_rubrique";s:2:"28";s:4:"lang";s:2:"en";s:4:"date";s:19:"2013-04-16 17:47:01";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 17:47:01";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366127221;s:2:"gz";b:0;}

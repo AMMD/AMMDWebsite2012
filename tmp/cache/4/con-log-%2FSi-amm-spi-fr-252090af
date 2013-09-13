@@ -1,0 +1,25 @@
+a:11:{s:9:"squelette";s:37:"html_b6c19838ed3f2d57b3046ef88de82060";s:6:"source";s:62:"plugins/auto/squelette_maparaan/v1.0.0/contenu/page-login.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/con-log-%2FSi-amm-spi-fr-252090af";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:1131:"
+
+
+
+
+<p id="hierarchie"><a href="http://b2g2/Sites/2012_ammd_spip/">Accueil</a> &gt; <strong class="on">Se connecter</strong></p>
+
+<div class="padd-post-item padd-post-item-single">
+	<div class="padd-post-item-title cartouche page-recherche">			
+		<h2><div class="info-publi">AMMD</div>Se connecter</h2>
+	</div>
+	<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/menu_lang_ecrire.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_MENU_LANG_ECRIRE_dyn('fr'), array('plugins/auto/squelette_maparaan/v1.0.0/contenu/page-login.html', 'html_b6c19838ed3f2d57b3046ef88de82060', '', 12, 'fr'));
+if ($lang_select) lang_select();
+?>
+	
+	<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_LOGIN', '/Sites/2012_ammd_spip/ecrire/?exec=accueil&amp;bonjour=oui'), array('plugins/auto/squelette_maparaan/v1.0.0/contenu/page-login.html', 'html_b6c19838ed3f2d57b3046ef88de82060', '', 8, 'fr'));
+if ($lang_select) lang_select();
+?>
+</div>";s:5:"notes";s:0:"";s:8:"contexte";a:9:{s:4:"page";s:5:"login";s:3:"url";s:54:"/Sites/2012_ammd_spip/ecrire/?exec=accueil&bonjour=oui";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-04-15 10:49:40";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-15 10:49:40";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:5:"login";}s:12:"lastmodified";i:1366015780;s:2:"gz";b:0;}

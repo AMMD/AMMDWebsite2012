@@ -1,0 +1,39 @@
+a:11:{s:9:"squelette";s:37:"html_95bc8c2ddd5dc767f80119be5d553377";s:6:"source";s:28:"prive/formulaires/login.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"7/for-orl-%20-1--%20--4136-28757ade";}s:7:"entetes";a:3:{s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"texte";s:1798:"<div class='formulaire_spip formulaire_login'>
+	
+	
+	
+
+	
+
+	 
+	<form id='formulaire_login' method='post' action='/Sites/2012_ammd_spip/spip.php?page=login&amp;url=%2FSites%2F2012_ammd_spip%2Fecrire%2F%3Fexec%3Drubrique%26id_rubrique%3D28'>
+	
+	<div><input name="page" value="login" type="hidden"
+/><input name="url" value="/Sites/2012_ammd_spip/ecrire/?exec=rubrique&amp;id_rubrique=28" type="hidden"
+/><input name='formulaire_action' type='hidden'
+		value='login' /><input name='formulaire_action_args' type='hidden'
+		value='solwIsDZk70uau/+ZUgfUBCEmrmIVc8bgcWvDZ75H/G1714w97J46qufsnAzCAnhjSDYFrnIPUR+56lTnYSdJ5h//uaqBhelHLjLoPn+beQM+XOWxoT0qTI0jgjt0EN1lAilof7gs+4q2/J7ITeKfe7/JJyWLbUI7yO/Hrno' /></div><fieldset>
+		<legend>Personal identifiers</legend>
+		
+		<ul>
+			<li class="editer editer_login obligatoire">
+				<label for="var_login">Login or e-mail address:</label><input type='text' class='text' name='var_login' id='var_login' value="orl" size='40' autocapitalize="off" autocorrect="off" />
+			</li>
+			<li class="editer editer_password obligatoire">
+				<label for="password">Password:</label><input type='password' class='text password' name='password' id='password' value="" size='40' autocapitalize="off" autocorrect="off" />
+				<p class='details'><a href="spip.php?page=spip_pass" id='spip_pass'>password forgotten?</a></p>
+			</li>
+			 
+			<li class="editer editer_session"><div class='choix'>
+				<input type="checkbox" class="checkbox" name="session_remember" id="session_remember" value="oui"  checked="checked" onchange="jQuery(this).addClass('modifie');" />
+				<label class='nofx' for="session_remember">Remember my ID for a few days</label>
+			</div></li>
+		</ul>
+	</fieldset>
+	<p class="boutons"><input type="submit" class="submit" value="Submit" /></p>
+	</form>
+	
+	
+	
+</div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:20:{s:9:"var_login";s:3:"orl";s:8:"editable";s:1:" ";s:3:"cnx";s:1:"1";s:9:"auth_http";s:0:"";s:15:"rester_connecte";s:1:" ";s:5:"_logo";s:0:"";s:12:"_alea_actuel";s:32:"4136366875162b21c51a8f8.28323351";s:11:"_alea_futur";s:32:"243795894516bccec97ae59.84500458";s:9:"_pipeline";s:24:"affiche_formulaire_login";s:10:"_pipelines";a:2:{s:24:"affiche_formulaire_login";a:0:{}s:15:"formulaire_fond";a:3:{s:4:"form";s:5:"login";s:4:"args";a:0:{}s:13:"je_suis_poste";b:0;}}s:15:"formulaire_args";s:168:"solwIsDZk70uau/+ZUgfUBCEmrmIVc8bgcWvDZ75H/G1714w97J46qufsnAzCAnhjSDYFrnIPUR+56lTnYSdJ5h//uaqBhelHLjLoPn+beQM+XOWxoT0qTI0jgjt0EN1lAilof7gs+4q2/J7ITeKfe7/JJyWLbUI7yO/Hrno";s:7:"erreurs";a:0:{}s:6:"action";s:124:"/Sites/2012_ammd_spip/spip.php?page=login&amp;url=%2FSites%2F2012_ammd_spip%2Fecrire%2F%3Fexec%3Drubrique%26id_rubrique%3D28";s:4:"form";s:5:"login";s:2:"id";s:3:"new";s:4:"lang";s:2:"en";s:4:"date";s:19:"2013-04-16 14:32:17";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 14:32:17";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366115537;s:2:"gz";b:0;}

@@ -1,0 +1,121 @@
+a:11:{s:9:"squelette";s:37:"html_ba1f8dab59240462414b85e0200ee558";s:6:"source";s:32:"squelettes/contenu/rubrique.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"6/con--1-rub-2013_09_11%20-094e198e";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:3298:"
+
+
+<p id="hierarchie"><a href="http://b2g2/Sites/2012_ammd_spip/">Accueil</a> &gt; <strong class="on">Actus</strong></p>
+
+<div class="padd-post-group padd-post-group-result">
+	<div class="padd-post-group-title cartouche">
+		<div class='pas-de-logo'></div>
+		<h1 class="">Actus</h1>
+	</div>
+
+	
+
+</div>
+
+
+
+<div class="padd-post-list padd-post-list-result">
+
+	<a name='pagination_articles' id='pagination_articles'></a>
+		
+		<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article53"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="11 septembre 2013 à 22h23min">11 septembre</div>
+			<h2><a href="spip.php?article53" rel="bookmark">Hop</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			
+		</div>
+	</div>
+		<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article52"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="11 septembre 2013 à 22h23min">11 septembre</div>
+			<h2><a href="spip.php?article52" rel="bookmark">Hep</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			
+		</div>
+	</div>
+		<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article51"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="11 septembre 2013 à 22h22min">11 septembre</div>
+			<h2><a href="spip.php?article51" rel="bookmark">Hap</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			
+		</div>
+	</div>
+		<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article50"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="11 septembre 2013 à 22h22min">11 septembre</div>
+			<h2><a href="spip.php?article50" rel="bookmark">Hup</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			
+		</div>
+	</div>
+		<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article49"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="11 septembre 2013 à 22h22min">11 septembre</div>
+			<h2><a href="spip.php?article49" rel="bookmark">Hip </a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			
+		</div>
+	</div>
+		<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article1"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="20 novembre 2012 à 10h11min">20 novembre 2012</div>
+			<h2><a href="spip.php?article1" rel="bookmark">Site de développement ouvert&nbsp;!</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			<div class="introduction
+			entry-content">
+		    Bienvenue sur la version développement du nouveau site de l’AMMD.
+
+Pour toute suggestion/modification du site de développement de l’AMMD, passe par le trac de l’AMMD, dans le milestone "Site Web AMMD".
+				<p class="lirelasuite"><a href="spip.php?article1&amp;lang=fr">Lire la suite</a></p>
+				<div class="nettoyeur"></div>
+			</div>
+		</div>
+	</div>
+	
+
+</div>
+
+
+
+	
+
+
+
+
+
+
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:10:{s:9:"rubrique1";s:0:"";s:11:"id_rubrique";s:1:"1";s:4:"type";s:8:"rubrique";s:4:"date";s:19:"2013-09-11 23:00:53";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 23:00:53";s:18:"date_redac_default";b:1;s:10:"id_secteur";s:1:"1";s:11:"composition";s:0:"";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1378933253;s:2:"gz";b:0;}

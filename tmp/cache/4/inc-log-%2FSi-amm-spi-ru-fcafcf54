@@ -1,0 +1,117 @@
+a:11:{s:9:"squelette";s:37:"html_b6b02d4e81e9ebd368e187562c23f55a";s:6:"source";s:36:"plugins/auto/menus/inclure/menu.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/inc-log-%2FSi-amm-spi-ru-fcafcf54";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:1975:"
+
+	
+	
+	<ul class="menu-liste menu-items menuder">
+		
+		<li class="menu-entree item">
+		<a href="http://b2g2/Sites/2012_ammd_spip/" title="Home">Home</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item subentry">
+		<a href="spip.php?rubrique7" title="Artists">Artists</a>
+			
+				<ul class="menu-liste menu-items">
+		
+		<li class="menu-entree item rub17">
+			<a href="spip.php?rubrique17" title="Le Grand Corvid&#233; et ses Cachottes">Le Grand Corvidé et ses Cachottes</a>
+
+			
+			
+
+			
+		</li>
+	
+		<li class="menu-entree item rub22">
+			<a href="spip.php?rubrique22" title="Les Barons Freaks">Les Barons Freaks</a>
+
+			
+			
+
+			
+		</li>
+	
+		<li class="menu-entree item rub12">
+			<a href="spip.php?rubrique12" title="Sebkha-Chott">Sebkha-Chott</a>
+
+			
+			
+
+			
+		</li>
+	
+		<li class="menu-entree item rub41">
+			<a href="spip.php?rubrique41" title="xo Anciens artistes ox">xo&nbsp;Anciens artistes&nbsp;ox</a>
+
+			
+			
+
+			
+		</li>
+			
+		
+		
+	</ul>
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique10" title="e-Shop - dl">e-Shop - dl</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique8" title="Formations">Formations</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique11" title="DIY">DIY</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique27" title="Crowdfunding">Crowdfunding</a>
+			
+				<ul class="menu-liste menu-items">
+		
+		<li class="menu-entree item rub29">
+			<a href="spip.php?rubrique29" title="Pl&#233;biscite by Groolot">Plébiscite by Groolot</a>
+
+			
+			
+
+			
+		</li>
+	
+		<li class="menu-entree item rub28">
+			<a href="spip.php?rubrique28" title="Sebkha-Chott Galoot Formula Performs Frank Zappa&#039;s Thing Fish">Sebkha-Chott Galoot Formula Performs Frank Zappa&#8217;s Thing Fish</a>
+
+			
+			
+
+			
+		</li>
+			
+		
+		
+	</ul>
+		 
+			 </li>
+		
+		
+	</ul>
+	
+	
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:10:{s:4:"page";s:5:"login";s:3:"url";s:58:"/Sites/2012_ammd_spip/ecrire/?exec=rubrique&id_rubrique=28";s:4:"lang";s:2:"en";s:4:"date";s:19:"2013-04-16 14:32:17";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 14:32:17";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:5:"login";s:11:"identifiant";s:8:"barrenav";}s:12:"lastmodified";i:1366115537;s:2:"gz";b:0;}

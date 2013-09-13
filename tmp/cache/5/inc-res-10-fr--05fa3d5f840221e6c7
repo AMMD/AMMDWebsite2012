@@ -1,0 +1,28 @@
+a:11:{s:9:"squelette";s:37:"html_ad9040c63c90536c170b80b0ca9565fc";s:6:"source";s:38:"squelettes/inclure/article-resume.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/inc-res-10-fr--05fa3d5f840221e6c7";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:953:"
+
+  
+	<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article10"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="26 mars 2013 à 11h19min">26 mars</div>
+			<h2><a href="spip.php?article10" rel="bookmark">A quoi va servir le financement&nbsp;?</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			<div class="introduction
+			entry-content">
+		    Ce projet est monté dans un but : le festival Zappanale du 1er au 3 Août à Bad Doberan en Allemagne.
+
+La Zappanale prend part au financement de la création, et prend en charge intégralement la représentation (transport, paiement des artistes, enregistrements...).
+
+Pour autant, la charge de travail pour ce projet est...
+				<p class="lirelasuite"><a href="spip.php?article10&lang=fr">Lire la suite</a></p>
+				<div class="nettoyeur"></div>
+			</div>
+		</div>
+	</div>
+	
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:10:"id_article";s:2:"10";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-05-01 23:35:30";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-05-01 23:35:30";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1367444130;s:2:"gz";b:0;}

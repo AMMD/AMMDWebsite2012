@@ -1,0 +1,19 @@
+a:11:{s:9:"squelette";s:37:"html_ad9040c63c90536c170b80b0ca9565fc";s:6:"source";s:38:"squelettes/inclure/article-resume.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/inc-res-51-fr--4cc111c4362f7fc17e";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:417:"
+
+  
+	<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article51"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="11 septembre 2013 à 22h22min">11 septembre</div>
+			<h2><a href="spip.php?article51" rel="bookmark">Hap</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			
+		</div>
+	</div>
+	
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:10:"id_article";s:2:"51";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-09-11 23:00:53";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 23:00:53";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1378933253;s:2:"gz";b:0;}

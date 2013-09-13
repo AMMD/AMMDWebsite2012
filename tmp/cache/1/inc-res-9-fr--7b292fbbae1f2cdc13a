@@ -1,0 +1,24 @@
+a:11:{s:9:"squelette";s:37:"html_ad9040c63c90536c170b80b0ca9565fc";s:6:"source";s:38:"squelettes/inclure/article-resume.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"1/inc-res-9-fr--7b292fbbae1f2cdc13a";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:934:"
+
+  
+	<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article9"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="3 avril 2013 à 11h01min">3 avril</div>
+			<h2><a href="spip.php?article9" rel="bookmark">A Propos</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			<div class="introduction
+			entry-content">
+		    Pour commémorer la mort prématurée de Frank Zappa il y a 30 ans, Sebkha-Chott jouera une satyre de comédie musicale "à la Broadway" écrite par Frank Zappa en 1984, et jamais montée sur scène de son vivant : Thing Fish (cette comédie n’a été montée qu’une fois en 2003 à Londres). La représentation aura lieu au festival...
+				<p class="lirelasuite"><a href="spip.php?article9&lang=fr">Lire la suite</a></p>
+				<div class="nettoyeur"></div>
+			</div>
+		</div>
+	</div>
+	
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:10:"id_article";s:1:"9";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-05-01 23:35:30";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-05-01 23:35:30";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1367444130;s:2:"gz";b:0;}

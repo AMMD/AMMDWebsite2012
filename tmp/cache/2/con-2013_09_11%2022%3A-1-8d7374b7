@@ -1,0 +1,229 @@
+a:11:{s:9:"squelette";s:37:"html_def17861467cad8093f840d03dafb33c";s:6:"source";s:37:"squelettes/contenu/page-sommaire.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"2/con-2013_09_11%2022%3A-1-8d7374b7";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:7982:"<div id="padd-search-maparaan"><?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE'), array('squelettes/contenu/page-sommaire.html', 'html_def17861467cad8093f840d03dafb33c', '', 1, 'fr'));
+if ($lang_select) lang_select();
+?></div>
+
+<div class="contenu-principal">
+	<div class="cartouche invisible">
+		<h1 class="h1 invisible">AMMD</h1>
+	</div>
+</div>
+
+	
+<div id="padd-featsubs">
+	<div id="padd-featsubs-wrapper">
+		<div id="padd-featured" class="padd-box">
+			<h2>Derniers articles</h2>
+			<div class="padd-interior">				
+				<div id="s3slider">
+					<ul id="s3sliderContent">
+							
+						
+						
+						
+							<li class="s3sliderImage" id="featured-53">
+								<a href="spip.php?article53">															
+									  
+										
+										
+								</a>
+								
+							</li>
+						
+							<li class="s3sliderImage" id="featured-52">
+								<a href="spip.php?article52">															
+									  
+										
+										
+								</a>
+								
+							</li>
+						
+							<li class="s3sliderImage" id="featured-51">
+								<a href="spip.php?article51">															
+									  
+										
+										
+								</a>
+								
+							</li>
+						
+							<li class="s3sliderImage" id="featured-50">
+								<a href="spip.php?article50">															
+									  
+										
+										
+								</a>
+								
+							</li>
+						
+                                                
+						
+							<li class="s3sliderImage" id="featured-3">
+								<a href="spip.php?article3">															
+									  <img class='spip_logos' alt="" src="local/cache-gd2/d5c9634742f21eeb1d71034186dea5dd.png" width='650' height='280' style='' />
+										
+									
+								</a>
+								<span class="right"><strong><a href="spip.php?article3">Sebkha-Chott</a></strong>are the fierce resulting pieces of the foursome between Frank Zappa, Mike Patton, Dr Dre and Taraf de Haidouks. They’re playing an experimental highly non-categorized music, with the remanent goal of "creating something" at each moment. 
+
+  Their shows are "must-be-seen" pieces, including absurd theater, lights and VJing sync to masterize the Ohreland dictatorship...<br /></span>
+								<span class="art_style"><em><p><strong>Abstract Low-Coast Hip Hop | Concrete Violence | AvantPorn Mekanik Metal</strong></p></em></span>
+							</li>
+						
+						
+						
+							<li class="s3sliderImage" id="featured-5">
+								<a href="spip.php?article5">															
+									  <img class="spip_logos" alt="" src="IMG/arton5.png?1364308725" width="492" height="642" style='width:650px; height:848.170731707px' />
+										
+										
+								</a>
+								<span class="right"><strong><a href="spip.php?article5">Le Grand Corvidé et ses Cachottes</a></strong>Un curé et ses pleureuses pour un enterrement réussi !
+
+  Du Walcobilly dans la plus pure tradition bayou-klezmer !<br /></span>
+								<span class="art_style"><em><p><strong>Walcobilly PurFlux</strong></p></em></span>
+							</li>
+						
+						
+						
+							<li class="s3sliderImage" id="featured-6">
+								<a href="spip.php?article6">															
+									  <img class="spip_logos" alt="" src="IMG/arton6.png?1364308186" width="230" height="100" style='width:650px; height:282.608695652px' />
+										
+										
+								</a>
+								<span class="right"><strong><a href="spip.php?article6">Les Barons Freaks</a></strong>are a bunch of creepy-crawly dandy musicians. They don’t frear the sun or the darkest theatre.<br /></span>
+								<span class="art_style"><em><p><strong>Taraf &amp; Ciné Concert Déambulant | Klezmer&#8217;n&#8217;Mississipi</strong></p></em></span>
+							</li>
+						
+						
+						
+							<li class="s3sliderImage" id="featured-41">
+								<a href="spip.php?article41">															
+									  
+										
+										
+								</a>
+								<span class="right"><strong><a href="spip.php?article41">Passés par l&#8217;AMMD</a></strong>Plusieurs artistes, formations ou projets sont passés par l’AMMD depuis sa création et s’en sont éloignés avec le temps : Mel-P (Dub HxC), Dyane Melling (plasticienne), La Muette (chansons atypiques), What’s Wrong With Us ? (rock experimental - Suisse), Lemurya (comédie rock prog), Shaolin Death Squad (metal experimental -...<br /></span>
+								
+							</li>
+						
+						
+
+						
+						<div class="clear s3sliderImage"></div>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="padd-subscribed">
+			<h2>Suivre mon site</h2>
+			<div class="padd-interior">
+			 
+				 <?php echo recuperer_fond( 'inclure/menu', array_merge(array (
+  'date' => '2013-09-11 22:29:50',
+  'date_default' => true,
+  'date_redac' => '2013-09-11 22:29:50',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('identifiant' => 'slidernav',
+	'lang' => 'fr')), array("compil"=>array('squelettes/contenu/page-sommaire.html','html_def17861467cad8093f840d03dafb33c','',119,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+			
+				
+				<ul>
+					<li class="rss">
+						<a href="spip.php?page=backend" title="Flux RSS">Flux RSS</a>
+					</li>
+					<li class="contact">
+						<a href="spip.php?auteur1" title="Contactez-nous">Contactez-nous</a>
+					</li>
+					<li class="twitter">
+						<a href="http://twitter.com/AMMDCoorp" title="AMMD sur Twitter">Suivre mes Tweets</a>
+					</li>
+					
+				</ul>
+				
+			</div>
+		</div>
+		<div class="padd-clear"></div>
+	</div>
+</div>
+
+
+<div id="padd-content">
+	<div id="padd-content-wrapper">
+		<div class="padd-post-group padd-post-group-index">
+			<div class="padd-post-group-title">
+				<h2>Accueil</h2>
+			</div>
+			
+
+			  
+			    <div class="padd-post-group padd-post-group-result">
+				<div class="padd-post-group-title cartouche">
+				  <h1>A propos</h1>
+				</div>
+			    </div>
+			    <div class="padd-post-post-list
+					padd-post-list-result">
+			      <div class="padd-post-post-item padd-post-item-result">
+				<p>L&#8217;<strong>AMMD</strong> est une coopérative d&#8217;<strong>artistes libres</strong> produisant de l&#8217;Art Libre avec des matériels et des logiciels libres.</p>
+
+<p>A l&#8217;origine structure de production musicale (albums puis tournées, spectacles, créations), en s&#8217;ouvrant aux autres disciplines, elle est devenue une sorte d&#8217;incubateur, de <strong>centres d&#8217;essais et de coopération d&#8217;artistes</strong> dans lequel tout est possible, avec une démarche sociale fortement ancrée du côté du "<i>monde du libre</i>" et de l&#8217;indépendance, ainsi qu&#8217;une sensibilité écologique assortie d&#8217;actions et non de subvention&nbsp;!</p>
+				
+				  <ul>
+				    
+				      <li><a href='spip.php?rubrique3'>Equipe</a></li>
+				    
+				      <li><a href='spip.php?rubrique4'>Propos politique</a></li>
+				    
+				      <li><a href='spip.php?rubrique5'>Radio AMMD</a></li>
+				    
+				      <li><a href='spip.php?rubrique6'>Chaîne Vidéo</a></li>
+				    
+				  </ul>
+				
+			      </div>
+			    </div>
+			  
+				
+				
+				
+				
+					<div class="padd-post-item padd-post-item-index padd-post-item-index-2 actus_listes">
+						<div class="padd-post-item-title">
+							<h2><em class="small">actu</em></h2>
+						</div>
+						<ul class="actus_liste">
+					
+					  <li><a href='spip.php?article53'>Hop</a></li>
+					<div class='marge'></div>
+					  <li><a href='spip.php?article52'>Hep</a></li>
+					<div class='marge'></div>
+					  <li><a href='spip.php?article51'>Hap</a></li>
+					<div class='marge'></div>
+					  <li><a href='spip.php?article50'>Hup</a></li>
+					<div class='marge'></div>
+					  <li><a href='spip.php?article49'>Hip </a></li>
+					<div class='marge'></div>
+					  <li><a href='spip.php?article1'>Site de développement ouvert&nbsp;!</a></li>
+					
+					</ul>
+					</div>
+					
+				
+								
+				
+				<div class="nettoyeur"></div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"date";s:19:"2013-09-11 22:29:50";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 22:29:50";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:8:"sommaire";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1378931391;s:2:"gz";b:0;}

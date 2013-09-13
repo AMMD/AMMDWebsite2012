@@ -1,0 +1,331 @@
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_forum' doesn't exist - SHOW CREATE TABLE `spip_forum`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_documents' doesn't exist - SHOW CREATE TABLE `spip_documents`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_mots' doesn't exist - SHOW CREATE TABLE `spip_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_groupes_mots' doesn't exist - SHOW CREATE TABLE `spip_groupes_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_messages' doesn't exist - SHOW CREATE TABLE `spip_messages`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_petitions' doesn't exist - SHOW CREATE TABLE `spip_petitions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_forum' doesn't exist - SHOW CREATE TABLE `spip_forum`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_documents' doesn't exist - SHOW CREATE TABLE `spip_documents`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_mots' doesn't exist - SHOW CREATE TABLE `spip_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_groupes_mots' doesn't exist - SHOW CREATE TABLE `spip_groupes_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_messages' doesn't exist - SHOW CREATE TABLE `spip_messages`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_petitions' doesn't exist - SHOW CREATE TABLE `spip_petitions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_forum' doesn't exist - SHOW CREATE TABLE `spip_forum`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_forum' doesn't exist - SHOW CREATE TABLE `spip_forum`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_documents' doesn't exist - SHOW CREATE TABLE `spip_documents`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_mots' doesn't exist - SHOW CREATE TABLE `spip_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_groupes_mots' doesn't exist - SHOW CREATE TABLE `spip_groupes_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_messages' doesn't exist - SHOW CREATE TABLE `spip_messages`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_petitions' doesn't exist - SHOW CREATE TABLE `spip_petitions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_documents' doesn't exist - SHOW CREATE TABLE `spip_documents`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_types_documents' doesn't exist - SHOW CREATE TABLE `spip_types_documents`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_documents' doesn't exist - SHOW CREATE TABLE `spip_documents`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_documents_liens' doesn't exist - SHOW CREATE TABLE `spip_documents_liens`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_mots' doesn't exist - SHOW CREATE TABLE `spip_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_groupes_mots' doesn't exist - SHOW CREATE TABLE `spip_groupes_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_messages' doesn't exist - SHOW CREATE TABLE `spip_messages`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_petitions' doesn't exist - SHOW CREATE TABLE `spip_petitions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_mots' doesn't exist - SHOW CREATE TABLE `spip_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_mots' doesn't exist - SHOW CREATE TABLE `spip_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_groupes_mots' doesn't exist - SHOW CREATE TABLE `spip_groupes_mots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_mots_liens' doesn't exist - SHOW CREATE TABLE `spip_mots_liens`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_messages' doesn't exist - SHOW CREATE TABLE `spip_messages`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_petitions' doesn't exist - SHOW CREATE TABLE `spip_petitions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_messages' doesn't exist - SHOW CREATE TABLE `spip_messages`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_messages' doesn't exist - SHOW CREATE TABLE `spip_messages`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_petitions' doesn't exist - SHOW CREATE TABLE `spip_petitions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_petitions' doesn't exist - SHOW CREATE TABLE `spip_petitions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_signatures' doesn't exist - SHOW CREATE TABLE `spip_signatures`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_versions' doesn't exist - SHOW CREATE TABLE `spip_versions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_versions' doesn't exist - SHOW CREATE TABLE `spip_versions`
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_versions_fragments' doesn't exist - SHOW CREATE TABLE `spip_versions_fragments`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic' doesn't exist - SHOW CREATE TABLE `spip_syndic`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_depots' doesn't exist - SHOW CREATE TABLE `spip_depots`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_plugins' doesn't exist - SHOW CREATE TABLE `spip_plugins`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_paquets' doesn't exist - SHOW CREATE TABLE `spip_paquets`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_breves' doesn't exist - SHOW CREATE TABLE `spip_breves`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_visites' doesn't exist - SHOW CREATE TABLE `spip_visites`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_visites' doesn't exist - SHOW CREATE TABLE `spip_visites`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_visites_articles' doesn't exist - SHOW CREATE TABLE `spip_visites_articles`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_referers' doesn't exist - SHOW CREATE TABLE `spip_referers`
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:ERREUR: Table 'ammd2012.spip_referers_articles' doesn't exist - SHOW CREATE TABLE `spip_referers_articles`
+Nov 20 10:27:11 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:27:18 192.168.0.100 (pid 6554) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:27:47 192.168.0.100 (pid 6758) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:28:01 192.168.0.100 (pid 6554) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:28:01 192.168.0.100 (pid 6554) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - 
+SELECT menus.titre, menus.id_menu, menus.identifiant
+FROM `ammd2012`.spip_menus AS `menus`
+WHERE (menus.id_menus_entree = 0)
+ORDER BY menus.titre
+Nov 20 10:28:01 192.168.0.100 (pid 6554) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - query inconnue
+Nov 20 10:28:01 192.168.0.100 (pid 6554) :Pri:ERREUR: Erreur 1146 de mysql: Table 'ammd2012.spip_menus' doesn't exist
+
+SELECT menus.titre, menus.id_menu, menus.identifiant
+FROM `ammd2012`.spip_menus AS `menus`
+WHERE (menus.id_menus_entree = 0)
+ORDER BY menus.titre
+Nov 20 10:28:01 192.168.0.100 (pid 6554) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - query inconnue
+Nov 20 10:28:39 192.168.0.100 (pid 6553) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:29:05 192.168.0.100 (pid 6553) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:29:15 192.168.0.100 (pid 6826) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:29:15 192.168.0.100 (pid 6826) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 10:30:26 192.168.0.100 (pid 6292) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:30:27 192.168.0.100 (pid 6292) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:09 192.168.0.100 (pid 6472) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:12 192.168.0.100 (pid 6554) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:16 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:16 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 10:31:30 192.168.0.100 (pid 6292) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:30 192.168.0.100 (pid 6292) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 10:31:32 192.168.0.100 (pid 6424) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:32 192.168.0.100 (pid 6424) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 10:31:35 192.168.0.100 (pid 6472) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:40 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:43 192.168.0.100 (pid 6553) :Pri:ERREUR: Table 'ammd2012.spip_menus' doesn't exist - SHOW CREATE TABLE `spip_menus`
+Nov 20 10:31:43 192.168.0.100 (pid 6553) :Pri:ERREUR: Unknown table 'spip_menus' - DROP TABLE `ammd2012`.spip_menus
+Nov 20 10:31:43 192.168.0.100 (pid 6553) :Pri:ERREUR: Unknown table 'spip_menus' - query inconnue
+Nov 20 10:31:43 192.168.0.100 (pid 6553) :Pri:ERREUR: Erreur 1051 de mysql: Unknown table 'spip_menus'
+DROP TABLE `ammd2012`.spip_menus
+Nov 20 10:31:43 192.168.0.100 (pid 6553) :Pri:ERREUR: Unknown table 'spip_menus_entrees' - DROP TABLE `ammd2012`.spip_menus_entrees
+Nov 20 10:31:43 192.168.0.100 (pid 6553) :Pri:ERREUR: Unknown table 'spip_menus_entrees' - query inconnue
+Nov 20 10:31:43 192.168.0.100 (pid 6553) :Pri:ERREUR: Erreur 1051 de mysql: Unknown table 'spip_menus_entrees'
+DROP TABLE `ammd2012`.spip_menus_entrees
+Nov 20 10:32:00 192.168.0.100 (pid 6685) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 10:38:52 192.168.0.100 (pid 6424) :Pub:ERREUR: Table 'ammd2012.MENUS' doesn't exist - SHOW CREATE TABLE `MENUS`
+Nov 20 10:39:47 192.168.0.100 (pid 6647) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 10:42:35 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.id_menu' doesn't exist - SHOW CREATE TABLE `id_menu`
+Nov 20 10:42:57 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:44:34 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:46:08 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:46:56 192.168.0.100 (pid 6888) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:48:52 192.168.0.100 (pid 6914) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:49:35 192.168.0.100 (pid 6888) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:56:08 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:56:34 192.168.0.100 (pid 6958) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:56:59 192.168.0.100 (pid 6959) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:57:20 192.168.0.100 (pid 6760) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:58:06 192.168.0.100 (pid 6961) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 10:59:45 192.168.0.100 (pid 6553) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 11:25:04 192.168.0.100 (pid 7065) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 11:28:21 192.168.0.100 (pid 7064) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 11:28:26 192.168.0.100 (pid 7057) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 11:30:46 192.168.0.100 (pid 7064) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Nov 20 11:32:49 192.168.0.100 (pid 7126) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 11:33:03 192.168.0.100 (pid 6647) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 11:33:05 192.168.0.100 (pid 7065) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 11:34:06 192.168.0.100 (pid 7118) :Pri:ERREUR: Table 'ammd2012.id_menu' doesn't exist - SHOW CREATE TABLE `id_menu`
+Nov 20 11:37:59 192.168.0.100 (pid 7284) :Pri:ERREUR: Table 'ammd2012.id_menu' doesn't exist - SHOW CREATE TABLE `id_menu`
+Nov 20 11:38:17 192.168.0.100 (pid 7285) :Pri:ERREUR: Table 'ammd2012.id_menu' doesn't exist - SHOW CREATE TABLE `id_menu`
+Nov 20 14:06:03 192.168.0.100 (pid 7705) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Nov 20 14:06:43 192.168.0.100 (pid 7382) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 10:36:11 192.168.0.100 (pid 24066) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 10:36:17 192.168.0.100 (pid 15103) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 10:36:24 192.168.0.100 (pid 23508) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 10:47:02 192.168.0.100 (pid 24250) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 10:47:19 192.168.0.100 (pid 24242) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 10:47:38 192.168.0.100 (pid 24258) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 10:48:09 192.168.0.100 (pid 24185) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 10:48:18 192.168.0.100 (pid 24264) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 11:04:39 192.168.0.100 (pid 24262) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 11:05:03 192.168.0.100 (pid 24262) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 11:05:38 192.168.0.100 (pid 24203) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 11:11:28 192.168.0.100 (pid 24262) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Mar 26 12:41:43 192.168.0.100 (pid 25236) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 12:41:59 192.168.0.100 (pid 25003) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 12:42:49 192.168.0.100 (pid 25138) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 12:42:56 192.168.0.100 (pid 25085) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:ERREUR: Table 'ammd2012.spip_formulaires_reponses_champs' doesn't exist - SHOW CREATE TABLE `spip_formulaires_reponses_champs`
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:ERREUR: Table 'ammd2012.spip_formulaires' doesn't exist - SHOW CREATE TABLE `spip_formulaires`
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:ERREUR: Table 'ammd2012.spip_formulaires_reponses' doesn't exist - SHOW CREATE TABLE `spip_formulaires_reponses`
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:ERREUR: Table 'ammd2012.spip_formulaires_liens' doesn't exist - SHOW CREATE TABLE `spip_formulaires_liens`
+Mar 26 16:25:12 192.168.0.100 (pid 26956) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 16:25:17 192.168.0.100 (pid 26887) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 16:25:21 192.168.0.100 (pid 26919) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 16:25:32 192.168.0.100 (pid 26969) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 16:25:35 192.168.0.100 (pid 26962) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 16:25:46 192.168.0.100 (pid 26971) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 16:25:49 192.168.0.100 (pid 26890) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Mar 26 16:25:51 192.168.0.100 (pid 26971) :Pri:ERREUR: Duplicate entry 'dist_daily' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_daily','Dailymotion','embed','oui')
+Mar 26 16:25:51 192.168.0.100 (pid 26971) :Pri:ERREUR: Duplicate entry 'dist_vimeo' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_vimeo','Vimeo','embed','oui')
+Mar 26 16:25:51 192.168.0.100 (pid 26971) :Pri:ERREUR: Duplicate entry 'dist_youtu' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_youtu','Youtube','embed','oui')
+Mar 26 16:25:51 192.168.0.100 (pid 26971) :Pri:ERREUR: Duplicate entry 'dist_cubox' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_cubox','CultureBox','embed','oui')
+Mar 26 16:29:20 192.168.0.100 (pid 26956) :Pri:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:29:20 192.168.0.100 (pid 26956) :Pri:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:29:20 192.168.0.100 (pid 26956) :Pri:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:29:30 192.168.0.100 (pid 26887) :Pri:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:29:30 192.168.0.100 (pid 26887) :Pri:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:29:30 192.168.0.100 (pid 26887) :Pri:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:29:49 192.168.0.100 (pid 26919) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:29:49 192.168.0.100 (pid 26919) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:29:49 192.168.0.100 (pid 26919) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:34:21 192.168.0.100 (pid 27005) :Pri:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:34:21 192.168.0.100 (pid 27005) :Pri:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:34:21 192.168.0.100 (pid 27005) :Pri:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:34:32 192.168.0.100 (pid 27011) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:34:32 192.168.0.100 (pid 27011) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:34:32 192.168.0.100 (pid 27011) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:04 90.44.185.145 (pid 26919) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:04 90.44.185.145 (pid 26919) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:38:04 90.44.185.145 (pid 26919) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:05 90.44.185.145 (pid 26890) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:05 90.44.185.145 (pid 26890) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:38:05 90.44.185.145 (pid 26890) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:48 90.44.185.145 (pid 26843) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:48 90.44.185.145 (pid 26843) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:38:48 90.44.185.145 (pid 26843) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:49 90.44.185.145 (pid 27018) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 26 16:38:49 90.44.185.145 (pid 27018) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 26 16:38:49 90.44.185.145 (pid 27018) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 28 15:38:45 192.168.0.105 (pid 3223) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Mar 28 15:38:45 192.168.0.105 (pid 3223) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Mar 28 15:38:45 192.168.0.105 (pid 3223) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 08 15:36:39 192.168.0.100 (pid 6110) :Pub:ERREUR: Table 'ammd2012.spip_formulaires_transactions,' doesn't exist - SHOW CREATE TABLE `spip_formulaires_transactions,`
+Apr 08 15:37:14 192.168.0.100 (pid 6141) :Pub:ERREUR: Table 'ammd2012.spip_formulaires_transactions,' doesn't exist - SHOW CREATE TABLE `spip_formulaires_transactions,`
+Apr 08 15:39:15 192.168.0.100 (pid 6631) :Pub:ERREUR: Unknown column 'L1.valeur' in 'field list' - 
+SELECT L1.valeur
+FROM `ammd2012`.spip_formulaires_transactions AS `formulaires_transactions`
+WHERE (formulaires_transactions.statut_transaction = 0)
+	AND (L1.id_formulaires_reponse = 'spip_formulaires_transactions.id_formulaires_reponse')
+	AND (L1.nom = 'montant_1')
+GROUP BY spip_formulaires_transactions.id_formulaires_reponse
+Apr 08 15:39:15 192.168.0.100 (pid 6631) :Pub:ERREUR: Unknown column 'L1.valeur' in 'field list' - query inconnue
+Apr 08 15:39:15 192.168.0.100 (pid 6631) :Pub:ERREUR: Erreur 1054 de mysql: Unknown column 'L1.valeur' in 'field list'
+
+SELECT L1.valeur
+FROM `ammd2012`.spip_formulaires_transactions AS `formulaires_transactions`
+WHERE (formulaires_transactions.statut_transaction = 0)
+	AND (L1.id_formulaires_reponse = 'spip_formulaires_transactions.id_formulaires_reponse')
+	AND (L1.nom = 'montant_1')
+GROUP BY spip_formulaires_transactions.id_formulaires_reponse
+Apr 08 15:39:15 192.168.0.100 (pid 6631) :Pub:ERREUR: Unknown column 'L1.valeur' in 'field list' - query inconnue
+Apr 16 09:56:06 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.RUBRIQUE' doesn't exist - SHOW CREATE TABLE `RUBRIQUE`
+Apr 16 09:56:11 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.RUBRIQUE' doesn't exist - SHOW CREATE TABLE `RUBRIQUE`
+Apr 16 10:09:19 192.168.0.100 (pid 8073) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 10:09:19 192.168.0.100 (pid 8073) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Apr 16 10:09:19 192.168.0.100 (pid 8073) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 10:09:34 192.168.0.100 (pid 7828) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 10:09:34 192.168.0.100 (pid 7828) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Apr 16 10:09:34 192.168.0.100 (pid 7828) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 10:34:50 192.168.0.100 (pid 11967) :Pub:ERREUR: Unknown column 'articles.relative' in 'where clause' - 
+SELECT articles.date, articles.id_article, articles.titre, articles.lang
+FROM `ammd2012`.spip_articles AS `articles`
+WHERE (articles.statut = 'publie')
+	AND articles.date&lt;'2013-04-23 10:34:00'
+	AND (articles.id_rubrique = 9)
+	AND (articles.relative > 0)
+Apr 16 10:34:50 192.168.0.100 (pid 11967) :Pub:ERREUR: Unknown column 'articles.relative' in 'where clause' - query inconnue
+Apr 16 10:34:50 192.168.0.100 (pid 11967) :Pub:ERREUR: Erreur 1054 de mysql: Unknown column 'articles.relative' in 'where clause'
+
+SELECT articles.date, articles.id_article, articles.titre, articles.lang
+FROM `ammd2012`.spip_articles AS `articles`
+WHERE (articles.statut = 'publie')
+	AND articles.date&lt;'2013-04-23 10:34:00'
+	AND (articles.id_rubrique = 9)
+	AND (articles.relative > 0)
+Apr 16 10:34:50 192.168.0.100 (pid 11967) :Pub:ERREUR: Unknown column 'articles.relative' in 'where clause' - query inconnue
+Apr 16 11:09:38 192.168.0.100 (pid 8069) :Pub:ERREUR: Table 'ammd2012.rubrique9s' doesn't exist - SHOW CREATE TABLE `rubrique9s`
+Apr 16 11:09:38 192.168.0.100 (pid 8069) :Pub:ERREUR: Table 'ammd2012.rubrique9' doesn't exist - SHOW CREATE TABLE `rubrique9`
+Apr 16 11:09:38 192.168.0.100 (pid 8069) :Pub:ERREUR: Table 'ammd2012.rubrique9s' doesn't exist - SHOW CREATE TABLE `rubrique9s`
+Apr 16 11:09:38 192.168.0.100 (pid 8069) :Pub:ERREUR: Table 'ammd2012.rubrique9' doesn't exist - SHOW CREATE TABLE `rubrique9`
+Apr 16 11:09:38 192.168.0.100 (pid 8069) :Pub:ERREUR: Table 'ammd2012.rubrique9s' doesn't exist - SHOW CREATE TABLE `rubrique9s`
+Apr 16 11:09:38 192.168.0.100 (pid 8069) :Pub:ERREUR: Table 'ammd2012.spip_rubrique9s' doesn't exist - SHOW CREATE TABLE `spip_rubrique9s`
+Apr 16 11:43:11 192.168.0.100 (pid 9669) :Pri:ERREUR: Table 'ammd2012.id_menus_entree' doesn't exist - SHOW CREATE TABLE `id_menus_entree`
+Apr 16 11:56:30 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 11:56:30 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Apr 16 11:56:30 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 11:56:30 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 11:56:30 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.video' doesn't exist - SHOW CREATE TABLE `video`
+Apr 16 11:56:30 192.168.0.100 (pid 11378) :Pub:ERREUR: Table 'ammd2012.videos' doesn't exist - SHOW CREATE TABLE `videos`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_articles_liens' doesn't exist - SHOW CREATE TABLE `spip_articles_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_rubriques_liens' doesn't exist - SHOW CREATE TABLE `spip_rubriques_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_forum_liens' doesn't exist - SHOW CREATE TABLE `spip_forum_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_groupes_mots_liens' doesn't exist - SHOW CREATE TABLE `spip_groupes_mots_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_messages_liens' doesn't exist - SHOW CREATE TABLE `spip_messages_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_petitions_liens' doesn't exist - SHOW CREATE TABLE `spip_petitions_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_signatures_liens' doesn't exist - SHOW CREATE TABLE `spip_signatures_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_syndic_liens' doesn't exist - SHOW CREATE TABLE `spip_syndic_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_syndic_articles_liens' doesn't exist - SHOW CREATE TABLE `spip_syndic_articles_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_depots_liens' doesn't exist - SHOW CREATE TABLE `spip_depots_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_plugins_liens' doesn't exist - SHOW CREATE TABLE `spip_plugins_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_paquets_liens' doesn't exist - SHOW CREATE TABLE `spip_paquets_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_formulaires_reponses_liens' doesn't exist - SHOW CREATE TABLE `spip_formulaires_reponses_liens`
+Apr 16 14:25:43 192.168.0.100 (pid 13541) :Pri:ERREUR: Table 'ammd2012.spip_breves_liens' doesn't exist - SHOW CREATE TABLE `spip_breves_liens`
+Apr 16 16:59:21 192.168.0.100 (pid 14003) :Pub:ERREUR: Got error 'repetition-operator operand invalid' from regexp - 
+SELECT rubriques.id_rubrique, rubriques.lang, rubriques.titre
+FROM `ammd2012`.spip_rubriques AS `rubriques`
+WHERE (rubriques.statut = 'publie')
+	AND (rubriques.id_parent = 28)
+	AND (rubriques.titre REGEXP '*Countreparties*')
+Apr 16 16:59:21 192.168.0.100 (pid 14003) :Pub:ERREUR: Got error 'repetition-operator operand invalid' from regexp - query inconnue
+Apr 16 16:59:21 192.168.0.100 (pid 14003) :Pub:ERREUR: Erreur 1139 de mysql: Got error 'repetition-operator operand invalid' from regexp
+
+SELECT rubriques.id_rubrique, rubriques.lang, rubriques.titre
+FROM `ammd2012`.spip_rubriques AS `rubriques`
+WHERE (rubriques.statut = 'publie')
+	AND (rubriques.id_parent = 28)
+	AND (rubriques.titre REGEXP '*Countreparties*')
+Apr 16 16:59:21 192.168.0.100 (pid 14003) :Pub:ERREUR: Got error 'repetition-operator operand invalid' from regexp - query inconnue

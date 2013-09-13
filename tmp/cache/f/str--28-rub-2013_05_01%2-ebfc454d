@@ -1,0 +1,38 @@
+a:11:{s:9:"squelette";s:37:"html_478d8f0e0a337060d2bd94562bc2631b";s:6:"source";s:37:"plugins/auto/z/v1.7.21/structure.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"f/str--28-rub-2013_05_01%2-ebfc454d";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:1511:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<?php echo recuperer_fond( 'head/rubrique', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'type' => 'rubrique',
+  'date' => '2013-05-01 14:59:48',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 14:59:48',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/z/v1.7.21/structure.html','html_478d8f0e0a337060d2bd94562bc2631b','',4,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<?php echo recuperer_fond( 'inclure/head', array('lang' => 'fr'), array("compil"=>array('plugins/auto/z/v1.7.21/structure.html','html_478d8f0e0a337060d2bd94562bc2631b','',5,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+</head>
+<body class="page_rubrique">
+<?php echo recuperer_fond( 'body', array_merge(array (
+  'rubrique28' => '',
+  'id_rubrique' => '28',
+  'type' => 'rubrique',
+  'date' => '2013-05-01 14:59:48',
+  'date_default' => true,
+  'date_redac' => '2013-05-01 14:59:48',
+  'date_redac_default' => true,
+  'id_secteur' => '27',
+  'composition' => '',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/z/v1.7.21/structure.html','html_478d8f0e0a337060d2bd94562bc2631b','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+</body>
+</html>
+ 
+";s:5:"notes";s:0:"";s:8:"contexte";a:10:{s:10:"rubrique28";s:0:"";s:11:"id_rubrique";s:2:"28";s:4:"type";s:8:"rubrique";s:4:"date";s:19:"2013-05-01 14:59:48";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-05-01 14:59:48";s:18:"date_redac_default";b:1;s:10:"id_secteur";s:2:"27";s:11:"composition";s:0:"";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1367413188;s:2:"gz";b:0;}

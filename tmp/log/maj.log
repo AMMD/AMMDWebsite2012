@@ -1,0 +1,138 @@
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta compagnon_base_version_maj_init etape 0: compagnon_create 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: compagnon_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta compagnon_base_version: init en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta compagnon_base_version_maj_1.0.0 etape 0: inc_config_dist 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: compagnon_base_version_maj_1.0.0: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta compagnon_base_version: 1.0.0 en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. compagnon_base_version: 1.0.0
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta forum_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: forum_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta forum_base_version: init en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta forum_base_version_maj_1.2.1 etape 0: inc_config_dist 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: forum_base_version_maj_1.2.1: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta forum_base_version: 1.2.1 en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. forum_base_version: 1.2.1
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta medias_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: medias_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta medias_base_version_maj_init etape 1: creer_base_types_doc 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: medias_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta medias_base_version: init en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta medias_base_version_maj_1.2.1 etape 0: inc_config_dist 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: medias_base_version_maj_1.2.1: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta medias_base_version: 1.2.1 en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. medias_base_version: 1.2.1
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta mots_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: mots_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta mots_base_version: init en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta mots_base_version_maj_2.1.0 etape 0: inc_config_dist 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: mots_base_version_maj_2.1.0: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta mots_base_version: 2.1.0 en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. mots_base_version: 2.1.0
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta organiseur_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: organiseur_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta organiseur_base_version_maj_init etape 1: sql_alter TABLE spip_auteurs ADD imessage VARCHAR(3)
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: organiseur_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta organiseur_base_version_maj_init etape 2: sql_alter TABLE spip_auteurs ADD messagerie VARCHAR(3)
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: organiseur_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta organiseur_base_version: init en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta organiseur_base_version_maj_1.1.1 etape 0: inc_config_dist 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: organiseur_base_version_maj_1.1.1: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta organiseur_base_version: 1.1.1 en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. organiseur_base_version: 1.1.1
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta petitions_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: petitions_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta petitions_base_version: init en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta petitions_base_version_maj_1.1.6 etape 0: inc_config_dist 
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: petitions_base_version_maj_1.1.6: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: meta petitions_base_version: 1.1.6 en 0 secondes
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. petitions_base_version: 1.1.6
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta revisions_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: revisions_base_version_maj_init: ok
+Nov 20 09:54:51 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta revisions_base_version_maj_init etape 1: revisions_upate_meta 
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: revisions_base_version_maj_init: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta revisions_base_version: init en 1 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta revisions_base_version_maj_1.1.2 etape 0: inc_config_dist 
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: revisions_base_version_maj_1.1.2: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta revisions_base_version: 1.1.2 en 1 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. revisions_base_version: 1.1.2
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta sites_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: sites_base_version_maj_init: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta sites_base_version: init en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta sites_base_version_maj_1.0.0 etape 0: inc_config_dist 
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: sites_base_version_maj_1.0.0: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta sites_base_version: 1.0.0 en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. sites_base_version: 1.0.0
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta stats_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: stats_base_version_maj_init: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta stats_base_version: init en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta stats_base_version_maj_1.0.0 etape 0: inc_config_dist 
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: stats_base_version_maj_1.0.0: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta stats_base_version: 1.0.0 en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. stats_base_version: 1.0.0
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta svp_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: svp_base_version_maj_init: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta svp_base_version: init en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta svp_base_version_maj_0.4.0 etape 0: inc_config_dist 
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: svp_base_version_maj_0.4.0: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta svp_base_version: 0.4.0 en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. svp_base_version: 0.4.0
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta urls_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: urls_base_version_maj_init: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta urls_base_version: init en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta urls_base_version_maj_1.1.3 etape 0: inc_config_dist 
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: urls_base_version_maj_1.1.3: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta urls_base_version: 1.1.3 en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. urls_base_version: 1.1.3
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta breves_base_version_maj_init etape 0: maj_tables Array
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: breves_base_version_maj_init: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta breves_base_version: init en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: maj meta breves_base_version_maj_1.0.0 etape 0: inc_config_dist 
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: breves_base_version_maj_1.0.0: ok
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: meta breves_base_version: 1.0.0 en 0 secondes
+Nov 20 09:54:52 192.168.0.100 (pid 6275) :Pri:!INFO: MAJ terminee. breves_base_version: 1.0.0
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: maj meta menus_base_version_maj_init etape 0: creer_base 
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: menus_base_version_maj_init: ok
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: maj meta menus_base_version_maj_init etape 1: ecrire_config menus/entrees_masquees,Array
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: menus_base_version_maj_init: ok
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: meta menus_base_version: init en 0 secondes
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: maj meta menus_base_version_maj_0.5.1 etape 0: inc_config_dist 
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: menus_base_version_maj_0.5.1: ok
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: meta menus_base_version: 0.5.1 en 0 secondes
+Nov 20 10:26:02 192.168.0.100 (pid 6292) :Pri:!INFO: MAJ terminee. menus_base_version: 0.5.1
+Nov 20 11:28:28 192.168.0.100 (pid 7057) :Pri:!INFO: maj meta jquerysuperfish_base_version_maj_init etape 0: ecrire_config jquerysuperfish,Array
+Nov 20 11:28:28 192.168.0.100 (pid 7057) :Pri:!INFO: jquerysuperfish_base_version_maj_init: ok
+Nov 20 11:28:28 192.168.0.100 (pid 7057) :Pri:!INFO: meta jquerysuperfish_base_version: init en 0 secondes
+Nov 20 11:28:28 192.168.0.100 (pid 7057) :Pri:!INFO: maj meta jquerysuperfish_base_version_maj_0.2 etape 0: inc_config_dist 
+Nov 20 11:28:28 192.168.0.100 (pid 7057) :Pri:!INFO: jquerysuperfish_base_version_maj_0.2: ok
+Nov 20 11:28:28 192.168.0.100 (pid 7057) :Pri:!INFO: meta jquerysuperfish_base_version: 0.2 en 0 secondes
+Nov 20 11:28:28 192.168.0.100 (pid 7057) :Pri:!INFO: MAJ terminee. jquerysuperfish_base_version: 0.2
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 0: ecrire_meta facteur_smtp,non
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 1: ecrire_meta facteur_smtp_auth,non
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 2: ecrire_meta facteur_smtp_secure,non
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 3: ecrire_meta facteur_smtp_sender,
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 4: ecrire_meta facteur_filtre_images,1
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 5: ecrire_meta facteur_filtre_css,0
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 6: ecrire_meta facteur_filtre_iso_8859,0
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 7: ecrire_meta facteur_adresse_envoi,non
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_init etape 8: facteur_vieil_upgrade 
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_init: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: meta facteur_base_version: init en 0 secondes
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta facteur_base_version_maj_1.1 etape 0: inc_config_dist 
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: facteur_base_version_maj_1.1: ok
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: meta facteur_base_version: 1.1 en 0 secondes
+Mar 26 12:42:58 192.168.0.100 (pid 25138) :Pri:!INFO: MAJ terminee. facteur_base_version: 1.1
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta formidable_base_version_maj_init etape 0: maj_tables Array
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:!INFO: formidable_base_version_maj_init: ok
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:!INFO: meta formidable_base_version: init en 0 secondes
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:!INFO: maj meta formidable_base_version_maj_0.5.1 etape 0: inc_config_dist 
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:!INFO: formidable_base_version_maj_0.5.1: ok
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:!INFO: meta formidable_base_version: 0.5.1 en 0 secondes
+Mar 26 12:43:03 192.168.0.100 (pid 25138) :Pri:!INFO: MAJ terminee. formidable_base_version: 0.5.1

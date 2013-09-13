@@ -1,0 +1,16 @@
+a:11:{s:9:"squelette";s:37:"html_5cd8dadca9d6b209c8f80cd4f560a0fd";s:6:"source";s:32:"prive/formulaires/menu_lang.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/for-lan-var-lan-htt-amm--97ecfa0c";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"texte";s:942:"<div class="formulaire_spip formulaire_menu_lang" id="formulaire_menu_lang">
+<form method="post" action="http://81.56.240.95/Sites/2012_ammd_spip/spip.php?action=converser&amp;redirect=spip.php%3Fpage%3Dlogin%26url%3D%252FSites%252F2012_ammd_spip%252Fecrire%252F%253Fexec%253Drubrique%2526id_rubrique%253D31"><div>
+	<input name="action" value="converser" type="hidden"
+/><input name="redirect" value="spip.php?page=login&amp;url=%2FSites%2F2012_ammd_spip%2Fecrire%2F%3Fexec%3Drubrique%26id_rubrique%3D31" type="hidden"
+/>
+	<label for="var_lang">Langues du site</label>
+	<select name="var_lang" id="var_lang" onchange="this.parentNode.parentNode.submit()">
+		<option value='en' dir="ltr">&#91;en&#93; English</option>
+	
+
+	 
+		<option value='fr' selected="selected" dir="ltr">&#91;fr&#93; fran&#231;ais</option>
+	</select>
+	<noscript><p class="boutons"><input type="submit" class="submit" value="&gt;&gt;" /></p></noscript>
+</div></form>
+</div>";s:5:"notes";s:0:"";s:8:"contexte";a:9:{s:3:"nom";s:8:"var_lang";s:3:"url";s:198:"http://81.56.240.95/Sites/2012_ammd_spip/spip.php?action=converser&redirect=spip.php%3Fpage%3Dlogin%26url%3D%252FSites%252F2012_ammd_spip%252Fecrire%252F%253Fexec%253Drubrique%2526id_rubrique%253D31";s:4:"name";s:8:"var_lang";s:7:"default";s:2:"fr";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-04-18 12:45:57";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-18 12:45:57";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366281957;s:2:"gz";b:0;}

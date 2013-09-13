@@ -1,0 +1,10 @@
+a:11:{s:9:"squelette";s:37:"html_558fc2678d533c8b938d83a53e5dd70b";s:6:"source";s:42:"prive/formulaires/inc-options-langues.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"7/for-opt-lan-var-lan-en-e-e2b178e6";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"texte";s:161:"
+	 
+		<option value='en' selected="selected" dir="ltr">&#91;en&#93; English</option>
+	
+
+	 
+		<option value='fr' dir="ltr">&#91;fr&#93; fran&#231;ais</option>
+	
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"name";s:8:"var_lang";s:7:"default";s:2:"en";s:4:"lang";s:2:"en";s:4:"date";s:19:"2013-09-11 22:21:51";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 22:21:51";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1378930911;s:2:"gz";b:0;}

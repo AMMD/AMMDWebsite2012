@@ -1,0 +1,26 @@
+a:11:{s:9:"squelette";s:37:"html_ad9040c63c90536c170b80b0ca9565fc";s:6:"source";s:38:"squelettes/inclure/article-resume.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"f/inc-res-1-fr--ac4abcd71ec4a7d42c0";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:848:"
+
+  
+	<div class="padd-post-item padd-post-item-result">
+		<a href="spip.php?article1"><div class="pas-de-logo-article-resume"></div></a>
+		
+		<div class="padd-post-item-title">
+			<div class="info-publi" title="20 novembre 2012 à 10h11min">20 novembre 2012</div>
+			<h2><a href="spip.php?article1" rel="bookmark">Site de développement ouvert&nbsp;!</a></h2>
+		</div>
+		<div class="padd-post-item-entry">
+
+
+			<div class="introduction
+			entry-content">
+		    Bienvenue sur la version développement du nouveau site de l’AMMD.
+
+Pour toute suggestion/modification du site de développement de l’AMMD, passe par le trac de l’AMMD, dans le milestone "Site Web AMMD".
+				<p class="lirelasuite"><a href="spip.php?article1&amp;lang=fr">Lire la suite</a></p>
+				<div class="nettoyeur"></div>
+			</div>
+		</div>
+	</div>
+	
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:10:"id_article";s:1:"1";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-09-11 23:00:53";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 23:00:53";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1378933253;s:2:"gz";b:0;}

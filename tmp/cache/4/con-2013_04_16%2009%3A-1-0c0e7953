@@ -1,0 +1,135 @@
+a:11:{s:9:"squelette";s:37:"html_def17861467cad8093f840d03dafb33c";s:6:"source";s:37:"squelettes/contenu/page-sommaire.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/con-2013_04_16%2009%3A-1-0c0e7953";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:4328:"<div id="padd-search-maparaan"><?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE'), array('squelettes/contenu/page-sommaire.html', 'html_def17861467cad8093f840d03dafb33c', '', 1, 'fr'));
+if ($lang_select) lang_select();
+?></div>
+
+<div class="contenu-principal">
+	<div class="cartouche invisible">
+		<h1 class="h1 invisible">AMMD</h1>
+	</div>
+</div>
+
+	
+<div id="padd-featsubs">
+	<div id="padd-featsubs-wrapper">
+		<div id="padd-featured" class="padd-box">
+			<h2>Derniers articles</h2>
+			<div class="padd-interior">				
+				<div id="s3slider">
+					<ul id="s3sliderContent">
+							
+						
+						
+						
+							<li class="s3sliderImage" id="featured-37">
+								<a href="spip.php?article37">															
+									  
+										
+										
+								</a>
+								<span class="right"><strong><a href="spip.php?article37">500€ (7 exemplaires)</a></strong>Vous recevrez une tête de Mammy Nuns (réalisations uniques) et votre nom apparaîtra au générique et dans le Hall of Shame Ohrelandais comme contributeur bienheureux</span>
+							</li>
+						
+							<li class="s3sliderImage" id="featured-38">
+								<a href="spip.php?article38">															
+									  
+										
+										
+								</a>
+								<span class="right"><strong><a href="spip.php?article38">50€ </a></strong>Vous obtenez les FICHIERS ORIGINAUX de création vidéo et votre nom apparaîtra au générique et dans le Hall of Shame Ohrelandais comme contributeur bienheureux.</span>
+							</li>
+						
+							<li class="s3sliderImage" id="featured-39">
+								<a href="spip.php?article39">															
+									  
+										
+										
+								</a>
+								<span class="right"><strong><a href="spip.php?article39">20€</a></strong>Vous recevrez un DVD de la performance de Sebkha-Chott à la Zappanale 2010, et votre nom apparaîtra au générique et dans le Hall of Shame Ohrelandais comme contributeur bienheureux.</span>
+							</li>
+						
+							<li class="s3sliderImage" id="featured-9">
+								<a href="spip.php?article9">															
+									  
+										
+										
+								</a>
+								<span class="right"><strong><a href="spip.php?article9">A Propos</a></strong>To commemorate Frank Zappa 20 years after his prematured death, Sebkha-Chott will perform a Satyrical Broadway Musical Comedy written by Frank Zappa in 1984, and never performed on stage when he was alive : Thing Fish (it was performed only once in 2003 in London). The performance will occur at Zappanale Festival in Germany on 2nd of August 2013.
+
+ For this...</span>
+							</li>
+						
+						
+						<div class="clear s3sliderImage"></div>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="padd-subscribed">
+			<h2>Suivre mon site</h2>
+			<div class="padd-interior">
+			 
+				 <?php echo recuperer_fond( 'inclure/menu', array_merge(array (
+  'date' => '2013-04-16 09:56:45',
+  'date_default' => true,
+  'date_redac' => '2013-04-16 09:56:45',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('identifiant' => 'slidernav',
+	'lang' => 'fr')), array("compil"=>array('squelettes/contenu/page-sommaire.html','html_def17861467cad8093f840d03dafb33c','',80,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+			
+			
+			</div>
+		</div>
+		<div class="padd-clear"></div>
+	</div>
+</div>
+
+
+<div id="padd-content">
+	<div id="padd-content-wrapper">
+		<div class="padd-post-group padd-post-group-index">
+			<div class="padd-post-group-title">
+				<h2>Accueil</h2>
+			</div>
+			
+			<div class="padd-post-list">
+			  padd-post-item padd-post-item-index">
+					<div class="padd-post-item-title">
+						<h2></h2>
+					</div>
+					<div class="padd-post-item-entry">
+						
+						
+					</div>
+				</div>
+				</BOUCLE_apropos2>
+				
+				
+				
+					
+					<div class="padd-post-item padd-post-item-index padd-post-item-index-2">
+						<div class="padd-post-item-title">
+							<h2>démo mars 2013</h2>
+						</div>
+						<div class="padd-post-item-entry">
+							
+							<p class="lirelasuite"><a href="spip.php?article15">Lire la suite</a></p>
+						</div>
+					</div>
+					
+				
+								
+				
+				<div class="nettoyeur"></div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"date";s:19:"2013-04-16 09:56:45";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 09:56:45";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:8:"sommaire";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1366099006;s:2:"gz";b:0;}

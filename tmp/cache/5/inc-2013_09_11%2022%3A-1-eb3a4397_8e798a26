@@ -1,0 +1,20 @@
+a:11:{s:9:"squelette";s:37:"html_9af91ca9e089bdbc3ae9a5ccc8673c25";s:6:"source";s:56:"plugins/auto/squelette_maparaan/v1.0.0/inclure/pied.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:2:{s:5:"cache";s:35:"5/inc-2013_09_11%2022%3A-1-eb3a4397";s:7:"session";s:8:"8e798a26";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:1254:"<?php echo recuperer_fond( 'inc-footer-content', array('id_rubrique' => '',
+	'lang' => 'fr'), array("compil"=>array('plugins/auto/squelette_maparaan/v1.0.0/inclure/pied.html','html_9af91ca9e089bdbc3ae9a5ccc8673c25','',1,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		</div>
+	</div>
+	<div id='footer-final'>
+		<div id='footer-final-wrapper'>
+			<div id="footer-spip">
+				<a href="http://www.spip.net/" title="Site réalisé avec SPIP"><img src="plugins/auto/z/v1.7.21/spip.png" alt="SPIP" width="48" height="16" /></a>
+				 | <a href="<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/url_logout.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_URL_LOGOUT_dyn(''), array('plugins/auto/squelette_maparaan/v1.0.0/inclure/pied.html', 'html_9af91ca9e089bdbc3ae9a5ccc8673c25', '', 8, 'fr'));
+if ($lang_select) lang_select();
+?>" rel="nofollow">Se déconnecter</a>
+				
+				 | <a href="ecrire/">Espace privé</a> |
+				<a rel="contents" href="spip.php?page=plan">Plan du site</a> |
+				<a href="spip.php?page=backend" rel="alternate" title="Syndiquer tout le site"><img src="plugins/auto/z/v1.7.21/feed.png" alt="Suivre la vie du site" width="16" height="16" />&nbsp;RSS&nbsp;2.0</a>
+		</div>";s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"date";s:19:"2013-09-11 22:54:38";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 22:54:38";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:8:"sommaire";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1378932879;s:2:"gz";b:0;}

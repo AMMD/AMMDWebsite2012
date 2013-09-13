@@ -1,0 +1,49 @@
+<plugin>
+	<nom>Menu jQuery Superfish</nom>
+	<slogan>Affiche un menu d&#233;roulant</slogan>
+	<auteur>Yffic</auteur>
+	<licence>GPL v3</licence>
+	<version>0.5.3</version>
+	<version_base>0.2</version_base>
+	<etat>stable</etat>
+	<icon>prive/themes/spip/images/jquerysuperfish-32.png</icon>
+	<description>
+		<multi>
+			[fr]Une adaptation pour Spip du plugin [jQuery Superfish->http://users.tpg.com.au/j_birch/plugins/superfish/ &#224; partir d'une structure ul/li g&#233;n&#233;r&#233;e par exemple par le plugin [Menus->http://www.spip-contrib.net/Menus,3139]
+		</multi>
+	</description>
+	<prefix>jquerysuperfish</prefix>
+	<lien>http://www.spip-contrib.net/Menu-jQuery-Superfish</lien>
+	<install>base/jquerysuperfish_install.php</install>
+	<pipeline>
+		<nom>insert_head_css</nom>
+		<inclure>jquerysuperfish_pipelines.php</inclure>
+	</pipeline>
+	<pipeline>
+		<nom>insert_head</nom>
+		<inclure>jquerysuperfish_pipelines.php</inclure>
+	</pipeline>
+	<pipeline>
+		 <nom>autoriser</nom>
+		 <inclure>inc/jquerysuperfish_autoriser.php</inclure>
+	</pipeline>
+	<pipeline>
+		<nom>ieconfig_metas</nom>
+		<inclure>jquerysuperfish_ieconfig_metas.php</inclure>
+	</pipeline>
+	<bouton id='jquerysuperfish' parent='configuration'>
+		<icone>prive/themes/spip/images/jquerysuperfish-24.png</icone>
+		<titre>jquerysuperfish:titre_menu</titre>
+		<url>configurer_jquerysuperfish</url>
+	</bouton>
+	<bouton id='jquerysuperfish2' parent='bando_squelette'>
+		<icone>prive/themes/spip/images/jquerysuperfish-16.png</icone>
+		<titre>jquerysuperfish:titre_menu</titre>
+		<url>configurer_jquerysuperfish</url>
+	</bouton>
+	<necessite id="SPIP" version="[2.1.0;3.0.99]" />
+	<necessite id="spip_bonux" version="[1.8;]" />
+	<necessite id="saisies" version="[1.25.5;]" />
+	<necessite id="YAML" version="[1.5;]" />
+	<categorie>navigation</categorie>
+</plugin>

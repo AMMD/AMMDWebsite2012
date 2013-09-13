@@ -1,0 +1,73 @@
+a:11:{s:9:"squelette";s:37:"html_84c94c9e7df72bb7c17b6c21a597a6b6";s:6:"source";s:40:"plugins/auto/z/v1.7.21/inclure/head.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/inclure%2Fhead-fr--841c0f00b57b7c";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:3986:"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<meta name="generator" content="SPIP 3.0.5 [19905]" />
+
+
+<link rel="alternate" type="application/rss+xml" title="Syndiquer tout le site" href="spip.php?page=backend" />
+
+
+<link rel="stylesheet" href="plugins/auto/z/v1.7.21/spip_style.css" type="text/css" media="all" />
+
+
+<link rel="stylesheet" href="plugins/auto/z/v1.7.21/spip_formulaires.css" type="text/css" media="projection, screen, tv" />
+
+
+<script type="text/javascript">/* <![CDATA[ */
+var box_settings = {tt_img:true,sel_g:"#documents_portfolio a[type='image/jpeg'],#documents_portfolio a[type='image/png'],#documents_portfolio a[type='image/gif']",sel_c:".mediabox",trans:"elastic",speed:"200",ssSpeed:"2500",maxW:"90%",maxH:"90%",minW:"400px",minH:"",opa:"0.9",str_ssStart:"Diaporama",str_ssStop:"Arrêter",str_cur:"{current}/{total}",str_prev:"Précédent",str_next:"Suivant",str_close:"Fermer",splash_url:""};
+/* ]]> */</script>
+<!-- insert_head_css --><link rel="stylesheet" href="plugins-dist/mediabox/colorbox/black-striped/colorbox.css" type="text/css" media="all" /><link rel='stylesheet' type='text/css' media='all' href='plugins-dist/porte_plume/css/barre_outils.css' />
+<link rel='stylesheet' type='text/css' media='all' href='spip.php?page=barre_outils_icones.css&amp;var_mode=recalcul' />
+
+<link rel="stylesheet" href="squelettes/css/menuder.css" type="text/css" media="projection, screen" />
+
+
+<link rel="stylesheet" href="plugins/auto/theme_maparaan/v1.0.1/habillage.css" type="text/css" media="projection, screen, tv" />
+
+
+
+
+ 
+<link rel="stylesheet" href="plugins/auto/squelette_maparaan/v1.0.0/css/slidernav.css" type="text/css" media="projection, screen, tv" />
+<link rel="stylesheet"
+       href="plugins/auto/squelette_maparaan/v1.0.0/css/style_maparaan.css"
+       type="text/css" media="projection, screen, tv" />
+<link rel="stylesheet"
+       href="squelettes/css/counterparts.css"
+       type="text/css" media="projection, screen, tv" />
+<link rel="stylesheet" href="squelettes/css/main.css" type="text/css" media="projection, screen, tv" />
+
+
+
+
+
+
+<script src="prive/javascript/jquery.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.form.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.autosave.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.placeholder-label.js" type="text/javascript"></script>
+
+<script src="prive/javascript/ajaxCallback.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.cookie.js" type="text/javascript"></script>
+
+<script src="plugins/auto/videos/v0.10.2/lib/html5media-1.1.5/api/html5media.min.js" type="text/javascript"></script>
+<!-- insert_head -->
+	<script src="plugins-dist/mediabox/javascript/jquery.colorbox.js?1353401566" type="text/javascript"></script>
+	<script src="plugins-dist/mediabox/javascript/spip.mediabox.js?1353401566" type="text/javascript"></script><script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.markitup_pour_spip.js'></script>
+<script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.previsu_spip.js'></script>
+<script type='text/javascript' src='spip.php?page=porte_plume_start.js&amp;lang=fr&amp;var_mode=recalcul'></script>
+<script type="text/javascript" src="spip.php?page=main-loading.js"></script><script type="text/javascript" src="plugins/auto/squelette_maparaan/v1.0.0/js/jquery.s3slider.js"></script>
+    <script type='text/javascript' src='plugins/auto/menuder/v2.1.4/js/menuder.js'></script>
+<link rel="stylesheet" type="text/css" href="plugins/auto/transaction/v0.3.1/css/transaction.css" media="all" />
+
+<!-- Variables de configuration pour le plugin Vidéo(s) -->
+<script type='text/javascript'>var CONFIG_WMODE = 'opaque';</script>
+<link rel="stylesheet" href="plugins/auto/videos/v0.10.2/theme/css/videos.css" type="text/css" media="all" /><!-- // Vidéo(s) -->
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-04-18 12:45:59";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-18 12:45:59";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366281959;s:2:"gz";b:0;}

@@ -1,0 +1,98 @@
+a:11:{s:9:"squelette";s:37:"html_85fc513661eb3c23e0233c1ce1534b8d";s:6:"source";s:44:"plugins/auto/theme_maparaan/v1.0.1/body.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/bod-2013_09_11%2022%3A-1-7be63de0";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:3612:"<div id="padd-header">
+	<div id="padd-header-wrapper">
+		<div class="padd-box padd-box-title">
+			
+			<?php echo recuperer_fond( 'inclure/entete', array_merge(array (
+  'date' => '2013-09-11 22:31:01',
+  'date_default' => true,
+  'date_redac' => '2013-09-11 22:31:01',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',5,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		</div>
+	</div>	
+</div>
+<div id="padd-categories" class="padd-box padd-box-categories">
+	<h2>Categories</h2>
+	
+	<div id="nav" class="padd-interior">
+		<?php echo recuperer_fond( 'inclure/barre-nav', array_merge(array (
+  'date' => '2013-09-11 22:31:01',
+  'date_default' => true,
+  'date_redac' => '2013-09-11 22:31:01',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('identifiant' => 'barrenav',
+	'lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',13,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	</div>
+</div>
+			
+<div id="page">
+	<div id="page-wrapper">
+		<div id="contenu">		
+			
+			<?php echo recuperer_fond( 'contenu/page', array_merge(array (
+  'date' => '2013-09-11 22:31:01',
+  'date_default' => true,
+  'date_redac' => '2013-09-11 22:31:01',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',21,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		</div>
+				
+		<div id="sidebar">
+			
+			<?php echo recuperer_fond( 'navigation/page', array_merge(array (
+  'date' => '2013-09-11 22:31:01',
+  'date_default' => true,
+  'date_redac' => '2013-09-11 22:31:01',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',26,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+			<?php echo recuperer_fond( 'extra/page', array_merge(array (
+  'date' => '2013-09-11 22:31:01',
+  'date_default' => true,
+  'date_redac' => '2013-09-11 22:31:01',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',27,$GLOBALS['spip_lang'])), _request("connect"));
+?>	
+		</div>
+		<div class="nettoyeur"></div>
+	</div>		
+</div>		
+
+<div id="footer">
+	
+	<div id='footer-content'>
+		<div id='footer-content-wrapper'>
+			<?php echo recuperer_fond( 'inclure/pied', array_merge(array (
+  'date' => '2013-09-11 22:31:01',
+  'date_default' => true,
+  'date_redac' => '2013-09-11 22:31:01',
+  'date_redac_default' => true,
+  'type' => 'page',
+  'composition' => 'sommaire',
+  'lang' => 'fr',
+),array('lang' => 'fr')), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',37,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+			<div id="footer-copyleft"><?php echo recuperer_fond( 'inc-theme-copyleft', array('lang' => 'fr'), array("compil"=>array('plugins/auto/theme_maparaan/v1.0.1/body.html','html_85fc513661eb3c23e0233c1ce1534b8d','',38,$GLOBALS['spip_lang'])), _request("connect"));
+?></div>
+		</div>
+	</div>
+</div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"date";s:19:"2013-09-11 22:31:01";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 22:31:01";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:8:"sommaire";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1378931461;s:2:"gz";b:0;}

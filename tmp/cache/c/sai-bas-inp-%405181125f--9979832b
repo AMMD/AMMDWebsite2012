@@ -1,0 +1,17 @@
+a:11:{s:9:"squelette";s:37:"html_8f425206fba737b416b8e524b4d70da2";s:6:"source";s:47:"plugins/auto/saisies/v1.27.0/saisies/_base.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/sai-bas-inp-%405181125f--9979832b";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"texte";s:348:"
+
+ 
+	
+	 
+		<!--!inserer_saisie_editer-->
+		<li class="editer editer_input_7 obligatoire saisie_input" data-id="@5181125f234c9">
+			<label  for="champ_input_7">Pseudo<span class='obligatoire'>  (obligatoire)</span></label>
+			
+			
+			
+			<input type="text" name="input_7" class="text" id="champ_input_7" size="40" />
+			
+			</li>
+	
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:16:{s:11:"type_saisie";s:5:"input";s:9:"id_saisie";s:14:"@5181125f234c9";s:5:"label";s:6:"Pseudo";s:4:"type";s:4:"text";s:4:"size";s:2:"40";s:12:"autocomplete";s:6:"defaut";s:11:"obligatoire";s:2:"on";s:3:"nom";s:7:"input_7";s:7:"erreurs";a:0:{}s:4:"self";s:52:"./?rubrique28&amp;id_rubrique=28&amp;id_formulaire=1";s:6:"valeur";s:0:"";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-05-01 15:33:28";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-05-01 15:33:28";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1367415208;s:2:"gz";b:0;}

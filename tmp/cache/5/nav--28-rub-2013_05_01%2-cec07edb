@@ -1,0 +1,16 @@
+a:11:{s:9:"squelette";s:37:"html_c4610db372f6d5deba072083330a3639";s:6:"source";s:31:"squelettes/navigation/dist.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/nav--28-rub-2013_05_01%2-cec07edb";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:624:"
+
+ 
+<?php echo recuperer_fond( 'inclure/contribs', array('id_rubrique' => '28',
+	'gauge_max' => '37000',
+	'lang' => 'fr'), array("compil"=>array('squelettes/navigation/dist.html','html_c4610db372f6d5deba072083330a3639','',4,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE'), array('squelettes/navigation/dist.html', 'html_c4610db372f6d5deba072083330a3639', '', 5, 'fr'));
+if ($lang_select) lang_select();
+?>
+";s:5:"notes";s:0:"";s:8:"contexte";a:10:{s:10:"rubrique28";s:0:"";s:11:"id_rubrique";s:2:"28";s:4:"type";s:8:"rubrique";s:4:"date";s:19:"2013-05-01 15:03:35";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-05-01 15:03:35";s:18:"date_redac_default";b:1;s:10:"id_secteur";s:2:"27";s:11:"composition";s:0:"";s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1367413415;s:2:"gz";b:0;}

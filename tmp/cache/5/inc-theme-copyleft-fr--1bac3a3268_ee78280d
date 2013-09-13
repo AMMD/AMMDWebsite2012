@@ -1,0 +1,5 @@
+a:11:{s:9:"squelette";s:37:"html_2545b4b711eb864a725e046c83881ee2";s:6:"source";s:58:"plugins/auto/theme_maparaan/v1.0.1/inc-theme-copyleft.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:2:{s:5:"cache";s:35:"5/inc-theme-copyleft-fr--1bac3a3268";s:7:"session";s:8:"ee78280d";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:283:"<div id="copyleft">
+Habillage visuel &copy; <a href="http://www.paddsolutions.com/wordpress-theme-maparaan/" >Maparaan</a> 
+/ <a href='http://www.paddsolutions.com/'>Padd Solutions</a> sous Licence <a href='http://www.gnu.org/licenses/gpl.html'>GNU General Public License</a>
+</div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-04-16 17:36:27";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-16 17:36:27";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1366126587;s:2:"gz";b:0;}

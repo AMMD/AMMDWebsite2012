@@ -1,0 +1,65 @@
+a:11:{s:9:"squelette";s:37:"html_6942dd96d9b3bf6346222c12b2e23054";s:6:"source";s:62:"plugins/auto/squelette_maparaan/v1.0.0/inc-footer-content.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"a/inc-footer-content--fr--e94444757";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:952:"
+
+<div class="padd-box padd-footer-popular-posts">
+	<h2>Articles Populaires</h2>
+	<div class="padd-interior">
+		<ul>
+			
+				<li><span class="padd-wrap"><a href="spip.php?article1">Site de développement ouvert&nbsp;!</a>
+					
+					par 
+					ORL
+					
+					
+				</span></li>
+			
+				<li><span class="padd-wrap"><a href="spip.php?article2">Sebkha-Chott Kourt - 2012</a>
+					
+					par 
+					ORL
+					
+					
+				</span></li>
+			
+				<li><span class="padd-wrap"><a href="spip.php?article3">Sebkha-Chott</a>
+					
+					par 
+					ORL
+					
+					
+				</span></li>
+			
+				<li><span class="padd-wrap"><a href="spip.php?article4">Le Grand Corvidé et ses Cachottes</a>
+					
+					par 
+					jeremy
+					
+					
+				</span></li>
+			
+				<li><span class="padd-wrap"><a href="spip.php?article5">Le Grand Corvidé et ses Cachottes</a>
+					
+					par 
+					jeremy
+					
+					
+				</span></li>
+			
+		</ul>
+	</div>
+</div>
+
+	
+
+
+
+
+
+
+ 
+	
+
+
+
+<div class="nettoyeur"></div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:11:"id_rubrique";s:0:"";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-09-11 23:07:45";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 23:07:45";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1378933665;s:2:"gz";b:0;}

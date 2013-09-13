@@ -1,0 +1,177 @@
+a:11:{s:9:"squelette";s:37:"html_37d85a5b0c0479726e43b7f1698c6220";s:6:"source";s:41:"plugins/auto/menus/inclure/barre-nav.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/inc-nav--9-art-2013_04_1-a9688da2";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:2685:"<div class="menu-conteneur">
+<ul class="menu-liste menu-items menuder">
+		
+		<li class="menu-entree item">
+		<a href="http://b2g2/Sites/2012_ammd_spip/" title="Accueil">Accueil</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique1" title="Actus">Actus</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique2" title="A propos">A propos</a>
+			
+				<ul class="menu-liste menu-items">
+		
+		
+			
+		
+		
+	</ul>
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item subentry">
+		<a href="spip.php?rubrique7" title="Artistes">Artistes</a>
+			
+				<ul class="menu-liste menu-items">
+		
+		<li class="menu-entree item rub17">
+			<a href="spip.php?rubrique17" title="Le Grand Corvid&#233; et ses Cachottes">Le Grand Corvidé et ses Cachottes</a>
+
+			
+			
+
+			
+		</li>
+	
+		<li class="menu-entree item rub22">
+			<a href="spip.php?rubrique22" title="Les Barons Freaks">Les Barons Freaks</a>
+
+			
+			
+
+			
+		</li>
+	
+		<li class="menu-entree item rub12">
+			<a href="spip.php?rubrique12" title="Sebkha-Chott">Sebkha-Chott</a>
+
+			
+			
+
+			
+		</li>
+			
+		
+		
+	</ul>
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique10" title="e-Chope - dl">e-Chope - dl</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique9" title="Evenements">Evenements</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique8" title="Formations">Formations</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique11" title="DIY">DIY</a>
+			
+		 
+			 </li>
+		
+		
+		<li class="menu-entree item on">
+		<a href="spip.php?rubrique27" title="Financement">Financement</a>
+			
+				<ul class="menu-liste menu-items">
+		
+		<li class="menu-entree item rub29">
+			<a href="spip.php?rubrique29" title="Pl&#233;biscite par Groolot">Plébiscite par Groolot</a>
+
+			
+			
+
+			
+				
+				
+
+				
+
+					
+					
+					
+
+				
+			
+		</li>
+	
+		<li class="menu-entree item on rub28">
+			<a href="spip.php?rubrique28" title="Sebkha-Chott Galoot Formula Performs Frank Zappa&#039;s Thing Fish">Sebkha-Chott Galoot Formula Performs Frank Zappa&#8217;s Thing Fish</a>
+
+			
+			
+
+			
+				
+				 
+
+				
+					<ul class="menu-liste menu-items">
+				
+					
+					
+					<li class="menu-entree item rub31">
+
+						
+                  
+						
+
+						<a href="spip.php?rubrique31" title="Contreparties">Contreparties</a>
+						
+						
+
+					
+					
+					
+
+				
+						
+					</li>
+				
+					
+					
+
+					
+
+					
+					
+					</ul>
+				
+			
+		</li>
+			
+		
+		
+	</ul>
+		 
+			 </li>
+		
+		
+	</ul></div>
+";s:5:"notes";s:0:"";s:8:"contexte";a:12:{s:8:"article9";s:0:"";s:10:"id_article";s:1:"9";s:4:"type";s:7:"article";s:4:"date";s:19:"2013-04-15 10:55:19";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-04-15 10:55:19";s:18:"date_redac_default";b:1;s:11:"id_rubrique";s:2:"28";s:10:"id_secteur";s:2:"27";s:11:"composition";s:0:"";s:4:"lang";s:2:"fr";s:11:"identifiant";s:8:"barrenav";}s:12:"lastmodified";i:1366016119;s:2:"gz";b:0;}

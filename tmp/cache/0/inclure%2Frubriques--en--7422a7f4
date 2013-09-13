@@ -1,0 +1,133 @@
+a:11:{s:9:"squelette";s:37:"html_a686939b99cd3f9ed3be5fc4657f3e67";s:6:"source";s:61:"plugins/auto/squelette_maparaan/v1.0.0/inclure/rubriques.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"0/inclure%2Frubriques--en--7422a7f4";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:2972:"
+
+
+<div class="padd-box padd-box-popular-posts">
+	<h2>Sections</h2>
+	<div class="padd-interior">
+		<div class="padd-interior-wrapper">	
+			<ul>
+				
+				<li>
+					<span class="surliste"><a href="spip.php?rubrique2">About us</a></span>
+						
+						<ul>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique3">Equipe</a></span>
+									
+								</li>
+							
+						</ul>
+						
+				</li>
+				
+				<li>
+					<span class="surliste"><a href="spip.php?rubrique1">News</a></span>
+						
+				</li>
+				
+				<li>
+					<span class="surliste"><a href="spip.php?rubrique7">Artists</a></span>
+						
+						<ul>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique17">Le Grand Corvidé et ses Cachottes</a></span>
+									
+						<ul>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique18"></a></span>
+									
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique21">Media</a></span>
+									
+								</li>
+							
+						</ul>
+						
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique22">Les Barons Freaks</a></span>
+									
+						<ul>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique23"></a></span>
+									
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique24">Discography</a></span>
+									
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique26">Media</a></span>
+									
+								</li>
+							
+						</ul>
+						
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique12">Sebkha-Chott</a></span>
+									
+						<ul>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique13"></a></span>
+									
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique14">Discography</a></span>
+									
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique16">Media</a></span>
+									
+								</li>
+							
+						</ul>
+						
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique41">xo Anciens artistes ox</a></span>
+									
+								</li>
+							
+						</ul>
+						
+				</li>
+				
+				<li>
+					<span class="surliste"><a href="spip.php?rubrique9">Events</a></span>
+						
+				</li>
+				
+				<li>
+					<span class="surliste"><a href="spip.php?rubrique27">Crowdfunding</a></span>
+						
+						<ul>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique28">Sebkha-Chott Galoot Formula Performs Frank Zappa’s Thing Fish</a></span>
+									
+						<ul>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique31">Counterparts</a></span>
+									
+								</li>
+							
+						</ul>
+						
+								</li>
+							
+								<li><span class="padd-wrap"><a href="spip.php?rubrique29">Plébiscite by Groolot</a></span>
+									
+								</li>
+							
+						</ul>
+						
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:11:"id_rubrique";s:0:"";s:4:"lang";s:2:"en";s:4:"date";s:19:"2013-09-11 22:21:52";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 22:21:52";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1378930912;s:2:"gz";b:0;}

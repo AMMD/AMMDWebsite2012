@@ -1,0 +1,17 @@
+a:11:{s:9:"squelette";s:37:"html_3ec78cf2420ca97e6d03d28636321c6a";s:6:"source";s:35:"plugins/auto/menus/menus/objet.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"6/men-rub-11-----1-arr-09_-bd2a17fd";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:98:"
+
+
+
+
+
+
+
+
+
+
+
+ 
+	<li class="menu-entree item">
+		<a href="spip.php?rubrique11" title="DIY">DIY</a>
+
+";s:5:"notes";s:0:"";s:8:"contexte";a:13:{s:10:"type_objet";s:8:"rubrique";s:8:"id_objet";s:2:"11";s:5:"titre";s:0:"";s:3:"css";s:0:"";s:9:"connexion";s:0:"";s:4:"trad";s:0:"";s:10:"appel_menu";b:1;s:3:"env";a:8:{s:4:"date";s:19:"2013-09-11 23:05:44";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 23:05:44";s:18:"date_redac_default";b:1;s:4:"type";s:4:"page";s:11:"composition";s:8:"sommaire";s:4:"lang";s:2:"fr";s:11:"identifiant";s:8:"barrenav";}s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-09-11 23:05:45";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-09-11 23:05:45";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1378933545;s:2:"gz";b:0;}
